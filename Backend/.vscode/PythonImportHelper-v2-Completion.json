@@ -1,0 +1,1306 @@
+[
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "Alimento",
+        "importPath": "alimento.models",
+        "description": "alimento.models",
+        "isExtraImport": true,
+        "detail": "alimento.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoMomentoDia",
+        "importPath": "alimento.models",
+        "description": "alimento.models",
+        "isExtraImport": true,
+        "detail": "alimento.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoMomentoDia",
+        "importPath": "alimento.models",
+        "description": "alimento.models",
+        "isExtraImport": true,
+        "detail": "alimento.models",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "MomentoDia",
+        "importPath": "dieta.models",
+        "description": "dieta.models",
+        "isExtraImport": true,
+        "detail": "dieta.models",
+        "documentation": {}
+    },
+    {
+        "label": "Dieta",
+        "importPath": "dieta.models",
+        "description": "dieta.models",
+        "isExtraImport": true,
+        "detail": "dieta.models",
+        "documentation": {}
+    },
+    {
+        "label": "DiaDieta",
+        "importPath": "dieta.models",
+        "description": "dieta.models",
+        "isExtraImport": true,
+        "detail": "dieta.models",
+        "documentation": {}
+    },
+    {
+        "label": "MomentoDia",
+        "importPath": "dieta.models",
+        "description": "dieta.models",
+        "isExtraImport": true,
+        "detail": "dieta.models",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "user.models",
+        "description": "user.models",
+        "isExtraImport": true,
+        "detail": "user.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "user.models",
+        "description": "user.models",
+        "isExtraImport": true,
+        "detail": "user.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "user.models",
+        "description": "user.models",
+        "isExtraImport": true,
+        "detail": "user.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "user.models",
+        "description": "user.models",
+        "isExtraImport": true,
+        "detail": "user.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "user.models",
+        "description": "user.models",
+        "isExtraImport": true,
+        "detail": "user.models",
+        "documentation": {}
+    },
+    {
+        "label": "Ejercicio",
+        "importPath": "ejercicio.models",
+        "description": "ejercicio.models",
+        "isExtraImport": true,
+        "detail": "ejercicio.models",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioDiaRutina",
+        "importPath": "ejercicio.models",
+        "description": "ejercicio.models",
+        "isExtraImport": true,
+        "detail": "ejercicio.models",
+        "documentation": {}
+    },
+    {
+        "label": "Ejercicio",
+        "importPath": "ejercicio.models",
+        "description": "ejercicio.models",
+        "isExtraImport": true,
+        "detail": "ejercicio.models",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioDiaRutina",
+        "importPath": "ejercicio.models",
+        "description": "ejercicio.models",
+        "isExtraImport": true,
+        "detail": "ejercicio.models",
+        "documentation": {}
+    },
+    {
+        "label": "DiaRutina",
+        "importPath": "rutina.models",
+        "description": "rutina.models",
+        "isExtraImport": true,
+        "detail": "rutina.models",
+        "documentation": {}
+    },
+    {
+        "label": "Rutina",
+        "importPath": "rutina.models",
+        "description": "rutina.models",
+        "isExtraImport": true,
+        "detail": "rutina.models",
+        "documentation": {}
+    },
+    {
+        "label": "DiaRutina",
+        "importPath": "rutina.models",
+        "description": "rutina.models",
+        "isExtraImport": true,
+        "detail": "rutina.models",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_schema_view",
+        "importPath": "drf_yasg.views",
+        "description": "drf_yasg.views",
+        "isExtraImport": true,
+        "detail": "drf_yasg.views",
+        "documentation": {}
+    },
+    {
+        "label": "openapi",
+        "importPath": "drf_yasg",
+        "description": "drf_yasg",
+        "isExtraImport": true,
+        "detail": "drf_yasg",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "ModelSerializer",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterView",
+        "importPath": "user.api.views",
+        "description": "user.api.views",
+        "isExtraImport": true,
+        "detail": "user.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserView",
+        "importPath": "user.api.views",
+        "description": "user.api.views",
+        "isExtraImport": true,
+        "detail": "user.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "TokenObtainPairView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "TokenRefreshView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegisterSerializer",
+        "importPath": "user.api.serializer",
+        "description": "user.api.serializer",
+        "isExtraImport": true,
+        "detail": "user.api.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfileUpdateSerializer",
+        "importPath": "user.api.serializer",
+        "description": "user.api.serializer",
+        "isExtraImport": true,
+        "detail": "user.api.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "UserSerializer",
+        "importPath": "user.api.serializer",
+        "description": "user.api.serializer",
+        "isExtraImport": true,
+        "detail": "user.api.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.validators",
+        "description": "django.contrib.auth.validators",
+        "detail": "django.contrib.auth.validators",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdmin",
+        "importPath": "django.contrib.auth.admin",
+        "description": "django.contrib.auth.admin",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.admin",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "alimento.migrations.0001_initial",
+        "description": "alimento.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('dieta', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Alimento',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "alimento.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoAdmin",
+        "kind": 6,
+        "importPath": "alimento.admin",
+        "description": "alimento.admin",
+        "peekOfCode": "class AlimentoAdmin(admin.ModelAdmin):\n    list_display = ('nombre', 'porcion', 'unidad', 'calorias', 'proteinas', 'carbohidratos', 'grasas', 'fibra', 'azucares')\n    search_fields = ('nombre',)\n    list_filter = ('unidad',)\n    ordering = ('nombre',)\n@admin.register(AlimentoMomentoDia)\nclass AlimentoMomentoDiaAdmin(admin.ModelAdmin):\n    list_display = ('alimento', 'momento_dia', 'cantidad', 'observaciones')\n    search_fields = ('alimento__nombre', 'momento_dia__descripcion')\n    list_filter = ('momento_dia',)",
+        "detail": "alimento.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoMomentoDiaAdmin",
+        "kind": 6,
+        "importPath": "alimento.admin",
+        "description": "alimento.admin",
+        "peekOfCode": "class AlimentoMomentoDiaAdmin(admin.ModelAdmin):\n    list_display = ('alimento', 'momento_dia', 'cantidad', 'observaciones')\n    search_fields = ('alimento__nombre', 'momento_dia__descripcion')\n    list_filter = ('momento_dia',)\n    ordering = ('alimento', 'momento_dia')",
+        "detail": "alimento.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoConfig",
+        "kind": 6,
+        "importPath": "alimento.apps",
+        "description": "alimento.apps",
+        "peekOfCode": "class AlimentoConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'alimento'",
+        "detail": "alimento.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Alimento",
+        "kind": 6,
+        "importPath": "alimento.models",
+        "description": "alimento.models",
+        "peekOfCode": "class Alimento(models.Model):\n    nombre = models.CharField(max_length=100)\n    porcion = models.FloatField()\n    unidad = models.CharField(max_length=50)\n    calorias = models.FloatField()\n    proteinas = models.FloatField()\n    carbohidratos = models.FloatField()\n    grasas = models.FloatField()\n    fibra = models.FloatField(blank=True, null=True)\n    azucares = models.FloatField(blank=True, null=True)",
+        "detail": "alimento.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoMomentoDia",
+        "kind": 6,
+        "importPath": "alimento.models",
+        "description": "alimento.models",
+        "peekOfCode": "class AlimentoMomentoDia(models.Model):\n    alimento = models.ForeignKey(Alimento, on_delete=models.CASCADE)\n    momento_dia = models.ForeignKey(MomentoDia, on_delete=models.CASCADE)\n    cantidad = models.FloatField()\n    observaciones = models.TextField(blank=True, null=True)\n    def __str__(self):\n        return f'{self.alimento.nombre} - {self.momento_dia.descripcion}'",
+        "detail": "alimento.models",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "dieta.migrations.0001_initial",
+        "description": "dieta.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Dieta',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "dieta.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "DiaDietaInline",
+        "kind": 6,
+        "importPath": "dieta.admin",
+        "description": "dieta.admin",
+        "peekOfCode": "class DiaDietaInline(admin.TabularInline):\n    model = DiaDieta\n    extra = 1\nclass MomentoDiaInline(admin.TabularInline):\n    model = MomentoDia\n    extra = 1\nclass AlimentoMomentoDiaInline(admin.TabularInline):\n    model = AlimentoMomentoDia\n    extra = 1\n# Register your models here. ",
+        "detail": "dieta.admin",
+        "documentation": {}
+    },
+    {
+        "label": "MomentoDiaInline",
+        "kind": 6,
+        "importPath": "dieta.admin",
+        "description": "dieta.admin",
+        "peekOfCode": "class MomentoDiaInline(admin.TabularInline):\n    model = MomentoDia\n    extra = 1\nclass AlimentoMomentoDiaInline(admin.TabularInline):\n    model = AlimentoMomentoDia\n    extra = 1\n# Register your models here. \n@admin.register(Dieta)\nclass DietaAdmin(admin.ModelAdmin):\n    list_display = ('nombre', 'usuario', 'fecha_inicio', 'activa')",
+        "detail": "dieta.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoMomentoDiaInline",
+        "kind": 6,
+        "importPath": "dieta.admin",
+        "description": "dieta.admin",
+        "peekOfCode": "class AlimentoMomentoDiaInline(admin.TabularInline):\n    model = AlimentoMomentoDia\n    extra = 1\n# Register your models here. \n@admin.register(Dieta)\nclass DietaAdmin(admin.ModelAdmin):\n    list_display = ('nombre', 'usuario', 'fecha_inicio', 'activa')\n    search_fields = ('nombre', 'usuario__username')\n    list_filter = ('activa',)\n    ordering = ('-fecha_inicio',)",
+        "detail": "dieta.admin",
+        "documentation": {}
+    },
+    {
+        "label": "DietaAdmin",
+        "kind": 6,
+        "importPath": "dieta.admin",
+        "description": "dieta.admin",
+        "peekOfCode": "class DietaAdmin(admin.ModelAdmin):\n    list_display = ('nombre', 'usuario', 'fecha_inicio', 'activa')\n    search_fields = ('nombre', 'usuario__username')\n    list_filter = ('activa',)\n    ordering = ('-fecha_inicio',)\n    inlines = [DiaDietaInline]\n@admin.register(DiaDieta)\nclass DiaDietaAdmin(admin.ModelAdmin):\n    list_display = ('dieta', 'fecha', 'dia', 'descripcion')\n    search_fields = ('dieta__nombre', 'dia')",
+        "detail": "dieta.admin",
+        "documentation": {}
+    },
+    {
+        "label": "DiaDietaAdmin",
+        "kind": 6,
+        "importPath": "dieta.admin",
+        "description": "dieta.admin",
+        "peekOfCode": "class DiaDietaAdmin(admin.ModelAdmin):\n    list_display = ('dieta', 'fecha', 'dia', 'descripcion')\n    search_fields = ('dieta__nombre', 'dia')\n    list_filter = ('dieta',)\n    ordering = ('fecha',)\n    inlines = [MomentoDiaInline]    \n@admin.register(MomentoDia)\nclass MomentoDiaAdmin(admin.ModelAdmin):\n    list_display = ('dia_dieta', 'momento', 'descripcion')\n    search_fields = ('dia_dieta__dieta__nombre', 'momento')",
+        "detail": "dieta.admin",
+        "documentation": {}
+    },
+    {
+        "label": "MomentoDiaAdmin",
+        "kind": 6,
+        "importPath": "dieta.admin",
+        "description": "dieta.admin",
+        "peekOfCode": "class MomentoDiaAdmin(admin.ModelAdmin):\n    list_display = ('dia_dieta', 'momento', 'descripcion')\n    search_fields = ('dia_dieta__dieta__nombre', 'momento')\n    list_filter = ('dia_dieta',)\n    ordering = ('dia_dieta',)\n    inlines = [AlimentoMomentoDiaInline]",
+        "detail": "dieta.admin",
+        "documentation": {}
+    },
+    {
+        "label": "DietaConfig",
+        "kind": 6,
+        "importPath": "dieta.apps",
+        "description": "dieta.apps",
+        "peekOfCode": "class DietaConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'dieta'",
+        "detail": "dieta.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Dieta",
+        "kind": 6,
+        "importPath": "dieta.models",
+        "description": "dieta.models",
+        "peekOfCode": "class Dieta(models.Model):\n    nombre = models.CharField(max_length=100)\n    usuario = models.ForeignKey(User, on_delete=models.CASCADE, related_name='dietas')\n    fecha_inicio = models.DateTimeField(auto_now_add=True)\n    activa = models.BooleanField(default=True)\n    def __str__(self):\n        return self.nombre\nclass DiaDieta(models.Model):\n    dieta = models.ForeignKey(Dieta, on_delete=models.CASCADE, related_name='dias_dieta')\n    fecha = models.DateTimeField(auto_now_add=True)",
+        "detail": "dieta.models",
+        "documentation": {}
+    },
+    {
+        "label": "DiaDieta",
+        "kind": 6,
+        "importPath": "dieta.models",
+        "description": "dieta.models",
+        "peekOfCode": "class DiaDieta(models.Model):\n    dieta = models.ForeignKey(Dieta, on_delete=models.CASCADE, related_name='dias_dieta')\n    fecha = models.DateTimeField(auto_now_add=True)\n    dia = models.CharField(choices=[('lunes', 'Lunes'), ('martes', 'Martes'),  \n                                    ('miercoles', 'Miércoles'), ('jueves', 'Jueves'), \n                                    ('viernes', 'Viernes'), ('sabado', 'Sábado'),\n                                    ('domingo', 'Domingo')], max_length=10)\n    descripcion = models.TextField()\n    def __str__(self):\n        return f\"{self.dieta.nombre} - {self.dia}\"",
+        "detail": "dieta.models",
+        "documentation": {}
+    },
+    {
+        "label": "MomentoDia",
+        "kind": 6,
+        "importPath": "dieta.models",
+        "description": "dieta.models",
+        "peekOfCode": "class MomentoDia(models.Model):\n    dia_dieta = models.ForeignKey(DiaDieta, on_delete=models.CASCADE, related_name='momentos_dia')\n    momento = models.CharField(choices=[('desayuno', 'Desayuno'), ('almuerzo', 'Almuerzo'), \n                                        ('cena', 'Cena'), ('snack', 'Snack')], max_length=10)\n    descripcion = models.TextField()\n    def __str__(self):\n        return f\"{self.dia_dieta.dia} - {self.momento}\"",
+        "detail": "dieta.models",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "ejercicio.migrations.0001_initial",
+        "description": "ejercicio.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('rutina', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Ejercicio',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "ejercicio.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioAdmin",
+        "kind": 6,
+        "importPath": "ejercicio.admin",
+        "description": "ejercicio.admin",
+        "peekOfCode": "class EjercicioAdmin(admin.ModelAdmin):\n    list_display = ['id', 'nombre', 'grupo_muscular', 'tipo_ejercicio']\n    search_fields = ['nombre', 'grupo_muscular']\n    list_filter = ['tipo_ejercicio']\n@admin.register(EjercicioDiaRutina)\nclass EjercicioDiaRutinaAdmin(admin.ModelAdmin):\n    list_display = ['id', 'ejercicio', 'dia_rutina', 'series', 'repeticiones', 'peso', 'orden']\n    search_fields = ['ejercicio__nombre', 'dia_rutina__descripcion']\n    list_filter = ['ejercicio__tipo_ejercicio']\n    ordering = ['orden']",
+        "detail": "ejercicio.admin",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioDiaRutinaAdmin",
+        "kind": 6,
+        "importPath": "ejercicio.admin",
+        "description": "ejercicio.admin",
+        "peekOfCode": "class EjercicioDiaRutinaAdmin(admin.ModelAdmin):\n    list_display = ['id', 'ejercicio', 'dia_rutina', 'series', 'repeticiones', 'peso', 'orden']\n    search_fields = ['ejercicio__nombre', 'dia_rutina__descripcion']\n    list_filter = ['ejercicio__tipo_ejercicio']\n    ordering = ['orden']",
+        "detail": "ejercicio.admin",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioConfig",
+        "kind": 6,
+        "importPath": "ejercicio.apps",
+        "description": "ejercicio.apps",
+        "peekOfCode": "class EjercicioConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'ejercicio'",
+        "detail": "ejercicio.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Ejercicio",
+        "kind": 6,
+        "importPath": "ejercicio.models",
+        "description": "ejercicio.models",
+        "peekOfCode": "class Ejercicio(models.Model):\n    nombre = models.CharField(max_length=100)\n    grupo_muscular = models.CharField(max_length=100)\n    descripcion = models.TextField()\n    tipo_ejercicio = models.CharField(max_length=50, \n                                      choices=[('fuerza', 'Fuerza'),\n                                                ('cardio', 'Cardio'),\n                                                ('flexibilidad', 'Flexibilidad')])\n    url_video = models.URLField(blank=True, null=True)\n    dia_rutina = models.ManyToManyField(DiaRutina, related_name='ejercicios', blank=True, through='EjercicioDiaRutina')",
+        "detail": "ejercicio.models",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioDiaRutina",
+        "kind": 6,
+        "importPath": "ejercicio.models",
+        "description": "ejercicio.models",
+        "peekOfCode": "class EjercicioDiaRutina(models.Model):\n    ejercicio = models.ForeignKey(Ejercicio, on_delete=models.CASCADE)\n    dia_rutina = models.ForeignKey(DiaRutina, on_delete=models.CASCADE)\n    series = models.IntegerField()\n    repeticiones = models.IntegerField()\n    peso = models.FloatField()\n    orden = models.IntegerField()\n    def __str__(self):\n        return f'{self.ejercicio.nombre} - {self.dia_rutina.descripcion}'",
+        "detail": "ejercicio.models",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "fitApp.asgi",
+        "description": "fitApp.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "fitApp.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "fitApp.settings",
+        "description": "fitApp.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-#m)z)7=_(6ovz*ye7is^jqgcjux4jtx*x3k_13#o14zsbs$p4e'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "fitApp.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "fitApp.settings",
+        "description": "fitApp.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-#m)z)7=_(6ovz*ye7is^jqgcjux4jtx*x3k_13#o14zsbs$p4e'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "fitApp.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "fitApp.settings",
+        "description": "fitApp.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "fitApp.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "fitApp.settings",
+        "description": "fitApp.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "fitApp.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "fitApp.settings",
+        "description": "fitApp.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'rest_framework_simplejwt',\n    'drf_yasg',",
+        "detail": "fitApp.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "fitApp.settings",
+        "description": "fitApp.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'fitApp.urls'",
+        "detail": "fitApp.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "fitApp.settings",
+        "description": "fitApp.settings",
+        "peekOfCode": "ROOT_URLCONF = 'fitApp.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "fitApp.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "fitApp.settings",
+        "description": "fitApp.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n                'django.contrib.messages.context_processors.messages',",
+        "detail": "fitApp.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "fitApp.settings",
+        "description": "fitApp.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'fitApp.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "fitApp.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "fitApp.settings",
+        "description": "fitApp.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "fitApp.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "fitApp.settings",
+        "description": "fitApp.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "fitApp.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "fitApp.settings",
+        "description": "fitApp.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "fitApp.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "fitApp.settings",
+        "description": "fitApp.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'user.User'",
+        "detail": "fitApp.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "fitApp.settings",
+        "description": "fitApp.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'user.User'\nREST_FRAMEWORK = {",
+        "detail": "fitApp.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "fitApp.settings",
+        "description": "fitApp.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'user.User'\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (",
+        "detail": "fitApp.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "fitApp.settings",
+        "description": "fitApp.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'user.User'\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    )\n}",
+        "detail": "fitApp.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "fitApp.settings",
+        "description": "fitApp.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'user.User'\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    )\n}",
+        "detail": "fitApp.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "fitApp.settings",
+        "description": "fitApp.settings",
+        "peekOfCode": "AUTH_USER_MODEL = 'user.User'\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    )\n}",
+        "detail": "fitApp.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "fitApp.settings",
+        "description": "fitApp.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    )\n}",
+        "detail": "fitApp.settings",
+        "documentation": {}
+    },
+    {
+        "label": "schema_view",
+        "kind": 5,
+        "importPath": "fitApp.urls",
+        "description": "fitApp.urls",
+        "peekOfCode": "schema_view = get_schema_view(\n   openapi.Info(\n      title=\"Snippets API\",\n      default_version='v1',\n      description=\"Test description\",\n      terms_of_service=\"https://www.google.com/policies/terms/\",\n      contact=openapi.Contact(email=\"contact@snippets.local\"),\n      license=openapi.License(name=\"BSD License\"),\n   ),\n   public=True,",
+        "detail": "fitApp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "fitApp.urls",
+        "description": "fitApp.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api/', include('user.api.urls')),\n    path('docs/', schema_view.with_ui('swagger', cache_timeout=0), name='schema-swagger-ui'),\n    path('redoc/', schema_view.with_ui('redoc', cache_timeout=0), name='schema-redoc'),\n]",
+        "detail": "fitApp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "fitApp.wsgi",
+        "description": "fitApp.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "fitApp.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "rutina.migrations.0001_initial",
+        "description": "rutina.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Rutina',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "rutina.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "DiaRutinaInline",
+        "kind": 6,
+        "importPath": "rutina.admin",
+        "description": "rutina.admin",
+        "peekOfCode": "class DiaRutinaInline(admin.TabularInline):  # Podés usar StackedInline si preferís\n    model = DiaRutina\n    extra = 1  # Cuántos formularios vacíos aparecen por defecto\nclass EjercicioDiaRutinaInline(admin.TabularInline):\n    model = EjercicioDiaRutina\n    extra = 1  # Cuántos formularios vacíos aparecen por defecto\n# Admin para la rutina\n@admin.register(Rutina)\nclass RutinaAdmin(admin.ModelAdmin):\n    list_display = ['id', 'nombre', 'user', 'fecha_creacion', 'cantidad_dias', 'activa']",
+        "detail": "rutina.admin",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioDiaRutinaInline",
+        "kind": 6,
+        "importPath": "rutina.admin",
+        "description": "rutina.admin",
+        "peekOfCode": "class EjercicioDiaRutinaInline(admin.TabularInline):\n    model = EjercicioDiaRutina\n    extra = 1  # Cuántos formularios vacíos aparecen por defecto\n# Admin para la rutina\n@admin.register(Rutina)\nclass RutinaAdmin(admin.ModelAdmin):\n    list_display = ['id', 'nombre', 'user', 'fecha_creacion', 'cantidad_dias', 'activa']\n    list_filter = ['activa', 'fecha_creacion']\n    search_fields = ['nombre', 'user__username']\n    inlines = [DiaRutinaInline]  # Mostrar días dentro de rutina",
+        "detail": "rutina.admin",
+        "documentation": {}
+    },
+    {
+        "label": "RutinaAdmin",
+        "kind": 6,
+        "importPath": "rutina.admin",
+        "description": "rutina.admin",
+        "peekOfCode": "class RutinaAdmin(admin.ModelAdmin):\n    list_display = ['id', 'nombre', 'user', 'fecha_creacion', 'cantidad_dias', 'activa']\n    list_filter = ['activa', 'fecha_creacion']\n    search_fields = ['nombre', 'user__username']\n    inlines = [DiaRutinaInline]  # Mostrar días dentro de rutina\n# Admin para los días (opcional, si querés verlos aparte)\n@admin.register(DiaRutina)\nclass DiaRutinaAdmin(admin.ModelAdmin):\n    list_display = ['id', 'rutina', 'nro_dia', 'descripcion']\n    list_filter = ['rutina']",
+        "detail": "rutina.admin",
+        "documentation": {}
+    },
+    {
+        "label": "DiaRutinaAdmin",
+        "kind": 6,
+        "importPath": "rutina.admin",
+        "description": "rutina.admin",
+        "peekOfCode": "class DiaRutinaAdmin(admin.ModelAdmin):\n    list_display = ['id', 'rutina', 'nro_dia', 'descripcion']\n    list_filter = ['rutina']\n    search_fields = ['descripcion']\n    inlines = [EjercicioDiaRutinaInline]",
+        "detail": "rutina.admin",
+        "documentation": {}
+    },
+    {
+        "label": "RutinaConfig",
+        "kind": 6,
+        "importPath": "rutina.apps",
+        "description": "rutina.apps",
+        "peekOfCode": "class RutinaConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'rutina'",
+        "detail": "rutina.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Rutina",
+        "kind": 6,
+        "importPath": "rutina.models",
+        "description": "rutina.models",
+        "peekOfCode": "class Rutina(models.Model):\n    nombre = models.CharField(max_length=100)\n    user = models.ForeignKey(User, on_delete=models.CASCADE, related_name='rutinas')\n    fecha_creacion = models.DateField(auto_now_add=True)\n    cantidad_dias = models.IntegerField()\n    activa = models.BooleanField(default=True)\n    def __str__(self):\n        return self.nombre\nclass DiaRutina(models.Model):\n    rutina = models.ForeignKey(Rutina, on_delete=models.CASCADE, related_name='dias')",
+        "detail": "rutina.models",
+        "documentation": {}
+    },
+    {
+        "label": "DiaRutina",
+        "kind": 6,
+        "importPath": "rutina.models",
+        "description": "rutina.models",
+        "peekOfCode": "class DiaRutina(models.Model):\n    rutina = models.ForeignKey(Rutina, on_delete=models.CASCADE, related_name='dias')\n    nro_dia = models.IntegerField()\n    descripcion = models.TextField()\n    def __str__(self):\n        return f'Día {self.nro_dia} de {self.rutina.nombre}'",
+        "detail": "rutina.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegisterSerializer",
+        "kind": 6,
+        "importPath": "user.api.serializer",
+        "description": "user.api.serializer",
+        "peekOfCode": "class UserRegisterSerializer(ModelSerializer):\n    class Meta:\n        model = User\n        fields = ['id','email', 'username', 'password']\n    def create(self, validated_data):\n        password = validated_data.pop('password', None)\n        instance = self.Meta.model(**validated_data)\n        if password is not None:\n            instance.set_password(password)\n        instance.save()",
+        "detail": "user.api.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfileUpdateSerializer",
+        "kind": 6,
+        "importPath": "user.api.serializer",
+        "description": "user.api.serializer",
+        "peekOfCode": "class UserProfileUpdateSerializer(ModelSerializer):\n    class Meta:\n        model = User\n        fields = ['email', 'username', 'nivel_entrenamiento', 'objetivo', 'edad', 'peso', 'altura', 'foto_perfil']\nclass UserSerializer(ModelSerializer):\n    class Meta:\n        model = User\n        fields = ['id', 'email', 'username', 'nivel_entrenamiento', 'objetivo', 'edad', 'peso', 'altura', 'foto_perfil']",
+        "detail": "user.api.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "UserSerializer",
+        "kind": 6,
+        "importPath": "user.api.serializer",
+        "description": "user.api.serializer",
+        "peekOfCode": "class UserSerializer(ModelSerializer):\n    class Meta:\n        model = User\n        fields = ['id', 'email', 'username', 'nivel_entrenamiento', 'objetivo', 'edad', 'peso', 'altura', 'foto_perfil']",
+        "detail": "user.api.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "user.api.urls",
+        "description": "user.api.urls",
+        "peekOfCode": "urlpatterns = [\n    path('auth/register/', RegisterView.as_view()),\n    path('auth/me/', UserView.as_view()),\n    path('auth/login/', TokenObtainPairView.as_view(), name='token_obtain_pair'),\n    path('auth/token/refresh/', TokenRefreshView.as_view(), name='token_refresh'),\n]",
+        "detail": "user.api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterView",
+        "kind": 6,
+        "importPath": "user.api.views",
+        "description": "user.api.views",
+        "peekOfCode": "class RegisterView(APIView):\n    def post(self, request):\n        serializer = UserRegisterSerializer(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data, status=status.HTTP_201_CREATED)\n        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)\nclass UserView(APIView):\n    permission_classes = [IsAuthenticated]\n    def get(self, request):",
+        "detail": "user.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserView",
+        "kind": 6,
+        "importPath": "user.api.views",
+        "description": "user.api.views",
+        "peekOfCode": "class UserView(APIView):\n    permission_classes = [IsAuthenticated]\n    def get(self, request):\n        serializer = UserSerializer(request.user)\n        return Response(serializer.data, status=status.HTTP_200_OK)\n    def patch(self, request):\n        serializer = UserProfileUpdateSerializer(request.user, data=request.data, partial=True)\n        if serializer.is_valid():\n            serializer.save()\n            return Response({'message': 'Usuario actualizado con éxito'}, status=status.HTTP_200_OK)",
+        "detail": "user.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "user.migrations.0001_initial",
+        "description": "user.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "user.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "user.migrations.0002_user_altura_user_edad_user_foto_perfil_and_more",
+        "description": "user.migrations.0002_user_altura_user_edad_user_foto_perfil_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('user', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='user',\n            name='altura',\n            field=models.FloatField(blank=True, help_text='Altura en cm', null=True),\n        ),",
+        "detail": "user.migrations.0002_user_altura_user_edad_user_foto_perfil_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdmin",
+        "kind": 6,
+        "importPath": "user.admin",
+        "description": "user.admin",
+        "peekOfCode": "class UserAdmin(BaseUserAdmin):\n    list_display = ['email', 'username', 'nivel_entrenamiento', 'objetivo', 'is_staff']\n    search_fields = ['email', 'username']",
+        "detail": "user.admin",
+        "documentation": {}
+    },
+    {
+        "label": "UserConfig",
+        "kind": 6,
+        "importPath": "user.apps",
+        "description": "user.apps",
+        "peekOfCode": "class UserConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'user'",
+        "detail": "user.apps",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "user.models",
+        "description": "user.models",
+        "peekOfCode": "class User(AbstractUser):\n    email = models.EmailField(unique=True)\n    USERNAME_FIELD = 'email'\n    REQUIRED_FIELDS = []\n    # Datos personales\n    edad = models.PositiveIntegerField(null=True, blank=True)\n    peso = models.FloatField(null=True, blank=True, help_text=\"Peso en kg\")\n    altura = models.FloatField(null=True, blank=True, help_text=\"Altura en cm\")\n    # Nivel de entrenamiento\n    nivel_entrenamiento = models.CharField(",
+        "detail": "user.models",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'fitApp.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
