@@ -1,5 +1,277 @@
 [
     {
+        "label": "ModelSerializer",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ModelSerializer",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ModelSerializer",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "StringRelatedField",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ModelSerializer",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ModelSerializer",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "Alimento",
+        "importPath": "alimento.models",
+        "description": "alimento.models",
+        "isExtraImport": true,
+        "detail": "alimento.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoMomentoDia",
+        "importPath": "alimento.models",
+        "description": "alimento.models",
+        "isExtraImport": true,
+        "detail": "alimento.models",
+        "documentation": {}
+    },
+    {
+        "label": "Alimento",
+        "importPath": "alimento.models",
+        "description": "alimento.models",
+        "isExtraImport": true,
+        "detail": "alimento.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoMomentoDia",
+        "importPath": "alimento.models",
+        "description": "alimento.models",
+        "isExtraImport": true,
+        "detail": "alimento.models",
+        "documentation": {}
+    },
+    {
+        "label": "Alimento",
+        "importPath": "alimento.models",
+        "description": "alimento.models",
+        "isExtraImport": true,
+        "detail": "alimento.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoMomentoDia",
+        "importPath": "alimento.models",
+        "description": "alimento.models",
+        "isExtraImport": true,
+        "detail": "alimento.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoMomentoDia",
+        "importPath": "alimento.models",
+        "description": "alimento.models",
+        "isExtraImport": true,
+        "detail": "alimento.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoMomentoDia",
+        "importPath": "Backend.alimento.models",
+        "description": "Backend.alimento.models",
+        "isExtraImport": true,
+        "detail": "Backend.alimento.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoMomentoDia",
+        "importPath": "Backend.alimento.models",
+        "description": "Backend.alimento.models",
+        "isExtraImport": true,
+        "detail": "Backend.alimento.models",
+        "documentation": {}
+    },
+    {
+        "label": "ModelViewSet",
+        "importPath": "rest_framework.viewsets",
+        "description": "rest_framework.viewsets",
+        "isExtraImport": true,
+        "detail": "rest_framework.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "ModelViewSet",
+        "importPath": "rest_framework.viewsets",
+        "description": "rest_framework.viewsets",
+        "isExtraImport": true,
+        "detail": "rest_framework.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "ModelViewSet",
+        "importPath": "rest_framework.viewsets",
+        "description": "rest_framework.viewsets",
+        "isExtraImport": true,
+        "detail": "rest_framework.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoSerializer",
+        "importPath": "alimento.api.serializers",
+        "description": "alimento.api.serializers",
+        "isExtraImport": true,
+        "detail": "alimento.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoMomentoDiaSerializer",
+        "importPath": "alimento.api.serializers",
+        "description": "alimento.api.serializers",
+        "isExtraImport": true,
+        "detail": "alimento.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoSerializer",
+        "importPath": "alimento.api.serializers",
+        "description": "alimento.api.serializers",
+        "isExtraImport": true,
+        "detail": "alimento.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoMomentoDiaSerializer",
+        "importPath": "alimento.api.serializers",
+        "description": "alimento.api.serializers",
+        "isExtraImport": true,
+        "detail": "alimento.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "NotFound",
+        "importPath": "rest_framework.exceptions",
+        "description": "rest_framework.exceptions",
+        "isExtraImport": true,
+        "detail": "rest_framework.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NotFound",
+        "importPath": "rest_framework.exceptions",
+        "description": "rest_framework.exceptions",
+        "isExtraImport": true,
+        "detail": "rest_framework.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "Dieta",
+        "importPath": "dieta.models",
+        "description": "dieta.models",
+        "isExtraImport": true,
+        "detail": "dieta.models",
+        "documentation": {}
+    },
+    {
+        "label": "DiaDieta",
+        "importPath": "dieta.models",
+        "description": "dieta.models",
+        "isExtraImport": true,
+        "detail": "dieta.models",
+        "documentation": {}
+    },
+    {
+        "label": "MomentoDia",
+        "importPath": "dieta.models",
+        "description": "dieta.models",
+        "isExtraImport": true,
+        "detail": "dieta.models",
+        "documentation": {}
+    },
+    {
+        "label": "Dieta",
+        "importPath": "dieta.models",
+        "description": "dieta.models",
+        "isExtraImport": true,
+        "detail": "dieta.models",
+        "documentation": {}
+    },
+    {
+        "label": "DiaDieta",
+        "importPath": "dieta.models",
+        "description": "dieta.models",
+        "isExtraImport": true,
+        "detail": "dieta.models",
+        "documentation": {}
+    },
+    {
+        "label": "MomentoDia",
+        "importPath": "dieta.models",
+        "description": "dieta.models",
+        "isExtraImport": true,
+        "detail": "dieta.models",
+        "documentation": {}
+    },
+    {
+        "label": "Dieta",
+        "importPath": "dieta.models",
+        "description": "dieta.models",
+        "isExtraImport": true,
+        "detail": "dieta.models",
+        "documentation": {}
+    },
+    {
+        "label": "DiaDieta",
+        "importPath": "dieta.models",
+        "description": "dieta.models",
+        "isExtraImport": true,
+        "detail": "dieta.models",
+        "documentation": {}
+    },
+    {
+        "label": "MomentoDia",
+        "importPath": "dieta.models",
+        "description": "dieta.models",
+        "isExtraImport": true,
+        "detail": "dieta.models",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectDoesNotExist",
+        "importPath": "django.core.exceptions",
+        "description": "django.core.exceptions",
+        "isExtraImport": true,
+        "detail": "django.core.exceptions",
+        "documentation": {}
+    },
+    {
         "label": "django.db.models.deletion",
         "kind": 6,
         "isExtraImport": true,
@@ -202,30 +474,6 @@
         "documentation": {}
     },
     {
-        "label": "Alimento",
-        "importPath": "alimento.models",
-        "description": "alimento.models",
-        "isExtraImport": true,
-        "detail": "alimento.models",
-        "documentation": {}
-    },
-    {
-        "label": "AlimentoMomentoDia",
-        "importPath": "alimento.models",
-        "description": "alimento.models",
-        "isExtraImport": true,
-        "detail": "alimento.models",
-        "documentation": {}
-    },
-    {
-        "label": "AlimentoMomentoDia",
-        "importPath": "alimento.models",
-        "description": "alimento.models",
-        "isExtraImport": true,
-        "detail": "alimento.models",
-        "documentation": {}
-    },
-    {
         "label": "AppConfig",
         "importPath": "django.apps",
         "description": "django.apps",
@@ -263,38 +511,6 @@
         "description": "django.apps",
         "isExtraImport": true,
         "detail": "django.apps",
-        "documentation": {}
-    },
-    {
-        "label": "MomentoDia",
-        "importPath": "dieta.models",
-        "description": "dieta.models",
-        "isExtraImport": true,
-        "detail": "dieta.models",
-        "documentation": {}
-    },
-    {
-        "label": "Dieta",
-        "importPath": "dieta.models",
-        "description": "dieta.models",
-        "isExtraImport": true,
-        "detail": "dieta.models",
-        "documentation": {}
-    },
-    {
-        "label": "DiaDieta",
-        "importPath": "dieta.models",
-        "description": "dieta.models",
-        "isExtraImport": true,
-        "detail": "dieta.models",
-        "documentation": {}
-    },
-    {
-        "label": "MomentoDia",
-        "importPath": "dieta.models",
-        "description": "dieta.models",
-        "isExtraImport": true,
-        "detail": "dieta.models",
         "documentation": {}
     },
     {
@@ -514,38 +730,6 @@
         "documentation": {}
     },
     {
-        "label": "ModelSerializer",
-        "importPath": "rest_framework.serializers",
-        "description": "rest_framework.serializers",
-        "isExtraImport": true,
-        "detail": "rest_framework.serializers",
-        "documentation": {}
-    },
-    {
-        "label": "StringRelatedField",
-        "importPath": "rest_framework.serializers",
-        "description": "rest_framework.serializers",
-        "isExtraImport": true,
-        "detail": "rest_framework.serializers",
-        "documentation": {}
-    },
-    {
-        "label": "ModelSerializer",
-        "importPath": "rest_framework.serializers",
-        "description": "rest_framework.serializers",
-        "isExtraImport": true,
-        "detail": "rest_framework.serializers",
-        "documentation": {}
-    },
-    {
-        "label": "ModelSerializer",
-        "importPath": "rest_framework.serializers",
-        "description": "rest_framework.serializers",
-        "isExtraImport": true,
-        "detail": "rest_framework.serializers",
-        "documentation": {}
-    },
-    {
         "label": "Ejercicio",
         "importPath": "ejercicio.models",
         "description": "ejercicio.models",
@@ -615,22 +799,6 @@
         "description": "ejercicio.models",
         "isExtraImport": true,
         "detail": "ejercicio.models",
-        "documentation": {}
-    },
-    {
-        "label": "ModelViewSet",
-        "importPath": "rest_framework.viewsets",
-        "description": "rest_framework.viewsets",
-        "isExtraImport": true,
-        "detail": "rest_framework.viewsets",
-        "documentation": {}
-    },
-    {
-        "label": "ModelViewSet",
-        "importPath": "rest_framework.viewsets",
-        "description": "rest_framework.viewsets",
-        "isExtraImport": true,
-        "detail": "rest_framework.viewsets",
         "documentation": {}
     },
     {
@@ -730,14 +898,6 @@
         "documentation": {}
     },
     {
-        "label": "NotFound",
-        "importPath": "rest_framework.exceptions",
-        "description": "rest_framework.exceptions",
-        "isExtraImport": true,
-        "detail": "rest_framework.exceptions",
-        "documentation": {}
-    },
-    {
         "label": "os",
         "kind": 6,
         "isExtraImport": true,
@@ -768,6 +928,14 @@
         "description": "pathlib",
         "isExtraImport": true,
         "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
         "documentation": {}
     },
     {
@@ -2600,6 +2768,42 @@
         "documentation": {}
     },
     {
+        "label": "AlimentoSerializer",
+        "kind": 6,
+        "importPath": "Backend.alimento.api.serializers",
+        "description": "Backend.alimento.api.serializers",
+        "peekOfCode": "class AlimentoSerializer(ModelSerializer):\n    class Meta:\n        model = Alimento\n        fields = ['id', 'nombre', 'porcion', 'unidad', 'calorias', 'proteinas', 'carbohidratos', 'grasas', 'fibra', 'azucares']\nclass AlimentoMomentoDiaSerializer(ModelSerializer):\n    class Meta:\n        model = AlimentoMomentoDia\n        fields = ['id', 'alimento', 'momento_dia', 'cantidad', 'observaciones']\n        read_only_fields = ['id']",
+        "detail": "Backend.alimento.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoMomentoDiaSerializer",
+        "kind": 6,
+        "importPath": "Backend.alimento.api.serializers",
+        "description": "Backend.alimento.api.serializers",
+        "peekOfCode": "class AlimentoMomentoDiaSerializer(ModelSerializer):\n    class Meta:\n        model = AlimentoMomentoDia\n        fields = ['id', 'alimento', 'momento_dia', 'cantidad', 'observaciones']\n        read_only_fields = ['id']",
+        "detail": "Backend.alimento.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoViewSet",
+        "kind": 6,
+        "importPath": "Backend.alimento.api.views",
+        "description": "Backend.alimento.api.views",
+        "peekOfCode": "class AlimentoViewSet(ModelViewSet):\n    queryset = Alimento.objects.all()\n    serializer_class = AlimentoSerializer\nclass AlimentoMomentoDiaViewSet(ModelViewSet):\n    \"\"\"\n    API endpoint that allows AlimentoMomentoDia to be viewed or edited.\n    \"\"\"\n    serializer_class = AlimentoMomentoDiaSerializer\n    def get_queryset(self):\n        dieta_pk = self.kwargs['dieta_pk']",
+        "detail": "Backend.alimento.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoMomentoDiaViewSet",
+        "kind": 6,
+        "importPath": "Backend.alimento.api.views",
+        "description": "Backend.alimento.api.views",
+        "peekOfCode": "class AlimentoMomentoDiaViewSet(ModelViewSet):\n    \"\"\"\n    API endpoint that allows AlimentoMomentoDia to be viewed or edited.\n    \"\"\"\n    serializer_class = AlimentoMomentoDiaSerializer\n    def get_queryset(self):\n        dieta_pk = self.kwargs['dieta_pk']\n        dia_dieta_pk = self.kwargs['dia_dieta_pk']\n        momento_dia_pk = self.kwargs['momento_dia_pk']\n        # Validar que la dieta, el día de la dieta y el momento del día existen",
+        "detail": "Backend.alimento.api.views",
+        "documentation": {}
+    },
+    {
         "label": "Migration",
         "kind": 6,
         "importPath": "Backend.alimento.migrations.0001_initial",
@@ -2651,6 +2855,33 @@
         "description": "Backend.alimento.models",
         "peekOfCode": "class AlimentoMomentoDia(models.Model):\n    alimento = models.ForeignKey(Alimento, on_delete=models.CASCADE)\n    momento_dia = models.ForeignKey(MomentoDia, on_delete=models.CASCADE)\n    cantidad = models.FloatField()\n    observaciones = models.TextField(blank=True, null=True)\n    def __str__(self):\n        return f'{self.alimento.nombre} - {self.momento_dia.descripcion}'",
         "detail": "Backend.alimento.models",
+        "documentation": {}
+    },
+    {
+        "label": "MomentoDiaSerializer",
+        "kind": 6,
+        "importPath": "Backend.dieta.api.serializer",
+        "description": "Backend.dieta.api.serializer",
+        "peekOfCode": "class MomentoDiaSerializer(ModelSerializer):\n    alimentos = AlimentoSerializer(many=True, read_only=True)\n    class Meta:\n        model = MomentoDia\n        fields = ['id', 'dia_dieta', 'momento', 'descripcion', 'alimentos']\n        read_only_fields = ['id', 'dia_dieta']\nclass DiaDietaSerializer(ModelSerializer):\n    momentos_dia = MomentoDiaSerializer(many=True, read_only=True)\n    class Meta:\n        model = DiaDieta",
+        "detail": "Backend.dieta.api.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "DiaDietaSerializer",
+        "kind": 6,
+        "importPath": "Backend.dieta.api.serializer",
+        "description": "Backend.dieta.api.serializer",
+        "peekOfCode": "class DiaDietaSerializer(ModelSerializer):\n    momentos_dia = MomentoDiaSerializer(many=True, read_only=True)\n    class Meta:\n        model = DiaDieta\n        fields = ['id', 'dieta', 'fecha', 'dia', 'descripcion', 'momentos_dia']\n        read_only_fields = ['id', 'dieta', 'fecha']\nclass DietaSerializer(ModelSerializer):\n    dias_dieta = DiaDietaSerializer(many=True, read_only=True)\n    class Meta:\n        model = Dieta",
+        "detail": "Backend.dieta.api.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "DietaSerializer",
+        "kind": 6,
+        "importPath": "Backend.dieta.api.serializer",
+        "description": "Backend.dieta.api.serializer",
+        "peekOfCode": "class DietaSerializer(ModelSerializer):\n    dias_dieta = DiaDietaSerializer(many=True, read_only=True)\n    class Meta:\n        model = Dieta\n        fields = ['id', 'nombre', 'usuario', 'fecha_inicio', 'activa', 'dias_dieta']\n        read_only_fields = ['id', 'usuario', 'fecha_inicio']",
+        "detail": "Backend.dieta.api.serializer",
         "documentation": {}
     },
     {
@@ -3018,7 +3249,7 @@
         "kind": 5,
         "importPath": "Backend.fitApp.settings",
         "description": "Backend.fitApp.settings",
-        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'user.User'\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    )\n}",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'user.User'\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    )\n}\nfrom datetime import timedelta\nSIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': timedelta(hours=1), ",
         "detail": "Backend.fitApp.settings",
         "documentation": {}
     },
@@ -3027,7 +3258,7 @@
         "kind": 5,
         "importPath": "Backend.fitApp.settings",
         "description": "Backend.fitApp.settings",
-        "peekOfCode": "AUTH_USER_MODEL = 'user.User'\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    )\n}",
+        "peekOfCode": "AUTH_USER_MODEL = 'user.User'\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    )\n}\nfrom datetime import timedelta\nSIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': timedelta(hours=1), \n    'REFRESH_TOKEN_LIFETIME': timedelta(days=7),  ",
         "detail": "Backend.fitApp.settings",
         "documentation": {}
     },
@@ -3036,7 +3267,16 @@
         "kind": 5,
         "importPath": "Backend.fitApp.settings",
         "description": "Backend.fitApp.settings",
-        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    )\n}",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    )\n}\nfrom datetime import timedelta\nSIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': timedelta(hours=1), \n    'REFRESH_TOKEN_LIFETIME': timedelta(days=7),  \n    'ROTATE_REFRESH_TOKENS': False,",
+        "detail": "Backend.fitApp.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SIMPLE_JWT",
+        "kind": 5,
+        "importPath": "Backend.fitApp.settings",
+        "description": "Backend.fitApp.settings",
+        "peekOfCode": "SIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': timedelta(hours=1), \n    'REFRESH_TOKEN_LIFETIME': timedelta(days=7),  \n    'ROTATE_REFRESH_TOKENS': False,\n    'BLACKLIST_AFTER_ROTATION': True,\n    'AUTH_HEADER_TYPES': ('Bearer',),\n}",
         "detail": "Backend.fitApp.settings",
         "documentation": {}
     },
