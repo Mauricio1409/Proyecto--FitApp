@@ -18,6 +18,10 @@ from django.contrib import admin
 from django.urls import path, include
 from drf_yasg.views import get_schema_view
 from drf_yasg import openapi
+from ejercicio.api.router import router as ejercicio_router
+from rutina.api.router import router as rutina_router
+from rutina.api.router import rutinas_router
+from ejercicio.api.router import diaEjercicio_router
 
 schema_view = get_schema_view(
    openapi.Info(
@@ -36,4 +40,8 @@ urlpatterns = [
     path('api/', include('user.api.urls')),
     path('docs/', schema_view.with_ui('swagger', cache_timeout=0), name='schema-swagger-ui'),
     path('redoc/', schema_view.with_ui('redoc', cache_timeout=0), name='schema-redoc'),
+    path('api/', include(ejercicio_router.urls)),
+    path('api/', include(rutina_router.urls)),
+    path('api/', include(rutinas_router.urls)),
+    path('api/', include(diaEjercicio_router.urls)),
 ]

@@ -9,6 +9,15 @@
         "documentation": {}
     },
     {
+        "label": "django.db",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db",
+        "description": "django.db",
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
         "label": "migrations",
         "importPath": "django.db",
         "description": "django.db",
@@ -433,6 +442,110 @@
         "documentation": {}
     },
     {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioViewSet",
+        "importPath": "ejercicio.api.views",
+        "description": "ejercicio.api.views",
+        "isExtraImport": true,
+        "detail": "ejercicio.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioDiaRutinaViewSet",
+        "importPath": "ejercicio.api.views",
+        "description": "ejercicio.api.views",
+        "isExtraImport": true,
+        "detail": "ejercicio.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "NestedSimpleRouter",
+        "importPath": "rest_framework_nested.routers",
+        "description": "rest_framework_nested.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework_nested.routers",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework_nested.routers",
+        "description": "rest_framework_nested.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework_nested.routers",
+        "documentation": {}
+    },
+    {
+        "label": "NestedDefaultRouter",
+        "importPath": "rest_framework_nested.routers",
+        "description": "rest_framework_nested.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework_nested.routers",
+        "documentation": {}
+    },
+    {
+        "label": "rutinas_router",
+        "importPath": "rutina.api.router",
+        "description": "rutina.api.router",
+        "isExtraImport": true,
+        "detail": "rutina.api.router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "rutina.api.router",
+        "description": "rutina.api.router",
+        "isExtraImport": true,
+        "detail": "rutina.api.router",
+        "documentation": {}
+    },
+    {
+        "label": "rutinas_router",
+        "importPath": "rutina.api.router",
+        "description": "rutina.api.router",
+        "isExtraImport": true,
+        "detail": "rutina.api.router",
+        "documentation": {}
+    },
+    {
+        "label": "ModelSerializer",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "StringRelatedField",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ModelSerializer",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ModelSerializer",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
         "label": "Ejercicio",
         "importPath": "ejercicio.models",
         "description": "ejercicio.models",
@@ -462,6 +575,86 @@
         "description": "ejercicio.models",
         "isExtraImport": true,
         "detail": "ejercicio.models",
+        "documentation": {}
+    },
+    {
+        "label": "Ejercicio",
+        "importPath": "ejercicio.models",
+        "description": "ejercicio.models",
+        "isExtraImport": true,
+        "detail": "ejercicio.models",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioDiaRutina",
+        "importPath": "ejercicio.models",
+        "description": "ejercicio.models",
+        "isExtraImport": true,
+        "detail": "ejercicio.models",
+        "documentation": {}
+    },
+    {
+        "label": "Ejercicio",
+        "importPath": "ejercicio.models",
+        "description": "ejercicio.models",
+        "isExtraImport": true,
+        "detail": "ejercicio.models",
+        "documentation": {}
+    },
+    {
+        "label": "Ejercicio",
+        "importPath": "ejercicio.models",
+        "description": "ejercicio.models",
+        "isExtraImport": true,
+        "detail": "ejercicio.models",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioDiaRutina",
+        "importPath": "ejercicio.models",
+        "description": "ejercicio.models",
+        "isExtraImport": true,
+        "detail": "ejercicio.models",
+        "documentation": {}
+    },
+    {
+        "label": "ModelViewSet",
+        "importPath": "rest_framework.viewsets",
+        "description": "rest_framework.viewsets",
+        "isExtraImport": true,
+        "detail": "rest_framework.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "ModelViewSet",
+        "importPath": "rest_framework.viewsets",
+        "description": "rest_framework.viewsets",
+        "isExtraImport": true,
+        "detail": "rest_framework.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioSerializer",
+        "importPath": "ejercicio.api.serializers",
+        "description": "ejercicio.api.serializers",
+        "isExtraImport": true,
+        "detail": "ejercicio.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioDiaRutinaSerializer",
+        "importPath": "ejercicio.api.serializers",
+        "description": "ejercicio.api.serializers",
+        "isExtraImport": true,
+        "detail": "ejercicio.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioSerializer",
+        "importPath": "ejercicio.api.serializers",
+        "description": "ejercicio.api.serializers",
+        "isExtraImport": true,
+        "detail": "ejercicio.api.serializers",
         "documentation": {}
     },
     {
@@ -486,6 +679,62 @@
         "description": "rutina.models",
         "isExtraImport": true,
         "detail": "rutina.models",
+        "documentation": {}
+    },
+    {
+        "label": "Rutina",
+        "importPath": "rutina.models",
+        "description": "rutina.models",
+        "isExtraImport": true,
+        "detail": "rutina.models",
+        "documentation": {}
+    },
+    {
+        "label": "DiaRutina",
+        "importPath": "rutina.models",
+        "description": "rutina.models",
+        "isExtraImport": true,
+        "detail": "rutina.models",
+        "documentation": {}
+    },
+    {
+        "label": "Rutina",
+        "importPath": "rutina.models",
+        "description": "rutina.models",
+        "isExtraImport": true,
+        "detail": "rutina.models",
+        "documentation": {}
+    },
+    {
+        "label": "DiaRutina",
+        "importPath": "rutina.models",
+        "description": "rutina.models",
+        "isExtraImport": true,
+        "detail": "rutina.models",
+        "documentation": {}
+    },
+    {
+        "label": "Rutina",
+        "importPath": "rutina.models",
+        "description": "rutina.models",
+        "isExtraImport": true,
+        "detail": "rutina.models",
+        "documentation": {}
+    },
+    {
+        "label": "DiaRutina",
+        "importPath": "rutina.models",
+        "description": "rutina.models",
+        "isExtraImport": true,
+        "detail": "rutina.models",
+        "documentation": {}
+    },
+    {
+        "label": "NotFound",
+        "importPath": "rest_framework.exceptions",
+        "description": "rest_framework.exceptions",
+        "isExtraImport": true,
+        "detail": "rest_framework.exceptions",
         "documentation": {}
     },
     {
@@ -562,6 +811,22 @@
         "documentation": {}
     },
     {
+        "label": "router",
+        "importPath": "ejercicio.api.router",
+        "description": "ejercicio.api.router",
+        "isExtraImport": true,
+        "detail": "ejercicio.api.router",
+        "documentation": {}
+    },
+    {
+        "label": "diaEjercicio_router",
+        "importPath": "ejercicio.api.router",
+        "description": "ejercicio.api.router",
+        "isExtraImport": true,
+        "detail": "ejercicio.api.router",
+        "documentation": {}
+    },
+    {
         "label": "get_wsgi_application",
         "importPath": "django.core.wsgi",
         "description": "django.core.wsgi",
@@ -570,11 +835,75 @@
         "documentation": {}
     },
     {
-        "label": "ModelSerializer",
-        "importPath": "rest_framework.serializers",
-        "description": "rest_framework.serializers",
+        "label": "RutinaViewSet",
+        "importPath": "rutina.api.views",
+        "description": "rutina.api.views",
         "isExtraImport": true,
-        "detail": "rest_framework.serializers",
+        "detail": "rutina.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "DiaRutinaViewSet",
+        "importPath": "rutina.api.views",
+        "description": "rutina.api.views",
+        "isExtraImport": true,
+        "detail": "rutina.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "RutinaSerializer",
+        "importPath": "rutina.api.serializers",
+        "description": "rutina.api.serializers",
+        "isExtraImport": true,
+        "detail": "rutina.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "DiaRutinaSerializer",
+        "importPath": "rutina.api.serializers",
+        "description": "rutina.api.serializers",
+        "isExtraImport": true,
+        "detail": "rutina.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "action",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
         "documentation": {}
     },
     {
@@ -618,14 +947,6 @@
         "documentation": {}
     },
     {
-        "label": "Response",
-        "importPath": "rest_framework.response",
-        "description": "rest_framework.response",
-        "isExtraImport": true,
-        "detail": "rest_framework.response",
-        "documentation": {}
-    },
-    {
         "label": "status",
         "importPath": "rest_framework",
         "description": "rest_framework",
@@ -655,14 +976,6 @@
         "description": "user.api.serializer",
         "isExtraImport": true,
         "detail": "user.api.serializer",
-        "documentation": {}
-    },
-    {
-        "label": "IsAuthenticated",
-        "importPath": "rest_framework.permissions",
-        "description": "rest_framework.permissions",
-        "isExtraImport": true,
-        "detail": "rest_framework.permissions",
         "documentation": {}
     },
     {
@@ -2440,6 +2753,60 @@
         "documentation": {}
     },
     {
+        "label": "router",
+        "kind": 5,
+        "importPath": "Backend.ejercicio.api.router",
+        "description": "Backend.ejercicio.api.router",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register(prefix='ejercicio', basename='ejercicio', viewset=EjercicioViewSet)\n# Router anidado para ejercicios por día\ndiaEjercicio_router = NestedSimpleRouter(dias_router, r'dias', lookup='dia')\ndiaEjercicio_router.register(r'ejercicios', EjercicioDiaRutinaViewSet, basename='dia-ejercicio')",
+        "detail": "Backend.ejercicio.api.router",
+        "documentation": {}
+    },
+    {
+        "label": "diaEjercicio_router",
+        "kind": 5,
+        "importPath": "Backend.ejercicio.api.router",
+        "description": "Backend.ejercicio.api.router",
+        "peekOfCode": "diaEjercicio_router = NestedSimpleRouter(dias_router, r'dias', lookup='dia')\ndiaEjercicio_router.register(r'ejercicios', EjercicioDiaRutinaViewSet, basename='dia-ejercicio')",
+        "detail": "Backend.ejercicio.api.router",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioSerializer",
+        "kind": 6,
+        "importPath": "Backend.ejercicio.api.serializers",
+        "description": "Backend.ejercicio.api.serializers",
+        "peekOfCode": "class EjercicioSerializer(ModelSerializer):\n    class Meta:\n        model = Ejercicio\n        fields = ['id', 'nombre', 'grupo_muscular', 'descripcion', 'tipo_ejercicio', 'url_video']\n        read_only_fields = ['id']\nclass EjercicioDiaRutinaSerializer(ModelSerializer):\n    class Meta:\n        model = EjercicioDiaRutina\n        fields = ['id', 'ejercicio', 'dia_rutina', 'repeticiones', 'series', 'peso', 'orden']",
+        "detail": "Backend.ejercicio.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioDiaRutinaSerializer",
+        "kind": 6,
+        "importPath": "Backend.ejercicio.api.serializers",
+        "description": "Backend.ejercicio.api.serializers",
+        "peekOfCode": "class EjercicioDiaRutinaSerializer(ModelSerializer):\n    class Meta:\n        model = EjercicioDiaRutina\n        fields = ['id', 'ejercicio', 'dia_rutina', 'repeticiones', 'series', 'peso', 'orden']",
+        "detail": "Backend.ejercicio.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioViewSet",
+        "kind": 6,
+        "importPath": "Backend.ejercicio.api.views",
+        "description": "Backend.ejercicio.api.views",
+        "peekOfCode": "class EjercicioViewSet(ModelViewSet):\n    \"\"\"\n    API endpoint that allows Ejercicios to be viewed or edited.\n    \"\"\"\n    queryset = Ejercicio.objects.all()\n    serializer_class = EjercicioSerializer\nclass EjercicioDiaRutinaViewSet(ModelViewSet):\n    \"\"\"\n    API endpoint that allows EjercicioDiaRutina to be viewed or edited.\n    \"\"\"",
+        "detail": "Backend.ejercicio.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioDiaRutinaViewSet",
+        "kind": 6,
+        "importPath": "Backend.ejercicio.api.views",
+        "description": "Backend.ejercicio.api.views",
+        "peekOfCode": "class EjercicioDiaRutinaViewSet(ModelViewSet):\n    \"\"\"\n    API endpoint that allows EjercicioDiaRutina to be viewed or edited.\n    \"\"\"\n    serializer_class = EjercicioDiaRutinaSerializer\n    def get_queryset(self):\n            rutina_pk = self.kwargs['rutina_pk']\n            dia_pk = self.kwargs['dia_pk']\n            # Validar que el día pertenece a la rutina\n            try:",
+        "detail": "Backend.ejercicio.api.views",
+        "documentation": {}
+    },
+    {
         "label": "Migration",
         "kind": 6,
         "importPath": "Backend.ejercicio.migrations.0001_initial",
@@ -2687,7 +3054,7 @@
         "kind": 5,
         "importPath": "Backend.fitApp.urls",
         "description": "Backend.fitApp.urls",
-        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api/', include('user.api.urls')),\n    path('docs/', schema_view.with_ui('swagger', cache_timeout=0), name='schema-swagger-ui'),\n    path('redoc/', schema_view.with_ui('redoc', cache_timeout=0), name='schema-redoc'),\n]",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api/', include('user.api.urls')),\n    path('docs/', schema_view.with_ui('swagger', cache_timeout=0), name='schema-swagger-ui'),\n    path('redoc/', schema_view.with_ui('redoc', cache_timeout=0), name='schema-redoc'),\n    path('api/', include(ejercicio_router.urls)),\n    path('api/', include(rutina_router.urls)),\n    path('api/', include(rutinas_router.urls)),\n    path('api/', include(diaEjercicio_router.urls)),\n]",
         "detail": "Backend.fitApp.urls",
         "documentation": {}
     },
@@ -2698,6 +3065,60 @@
         "description": "Backend.fitApp.wsgi",
         "peekOfCode": "application = get_wsgi_application()",
         "detail": "Backend.fitApp.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "Backend.rutina.api.router",
+        "description": "Backend.rutina.api.router",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register('rutinas', RutinaViewSet, basename='rutina')\n# Nested router para los días dentro de una rutina\nrutinas_router = NestedDefaultRouter(router, 'rutinas', lookup='rutina')\nrutinas_router.register('dias', DiaRutinaViewSet, basename='dia-rutina')",
+        "detail": "Backend.rutina.api.router",
+        "documentation": {}
+    },
+    {
+        "label": "rutinas_router",
+        "kind": 5,
+        "importPath": "Backend.rutina.api.router",
+        "description": "Backend.rutina.api.router",
+        "peekOfCode": "rutinas_router = NestedDefaultRouter(router, 'rutinas', lookup='rutina')\nrutinas_router.register('dias', DiaRutinaViewSet, basename='dia-rutina')",
+        "detail": "Backend.rutina.api.router",
+        "documentation": {}
+    },
+    {
+        "label": "DiaRutinaSerializer",
+        "kind": 6,
+        "importPath": "Backend.rutina.api.serializers",
+        "description": "Backend.rutina.api.serializers",
+        "peekOfCode": "class DiaRutinaSerializer(ModelSerializer):\n    ejercicios = EjercicioSerializer(many=True, read_only=True)\n    class Meta:\n        model = DiaRutina\n        fields = ['id', 'rutina', 'descripcion', 'nro_dia', 'ejercicios']\nclass RutinaSerializer(ModelSerializer):\n    dias = DiaRutinaSerializer(many=True, read_only=True)\n    class Meta:\n        model = Rutina\n        fields = ['id', 'nombre', 'user', 'fecha_creacion', 'cantidad_dias', 'activa', 'dias']",
+        "detail": "Backend.rutina.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "RutinaSerializer",
+        "kind": 6,
+        "importPath": "Backend.rutina.api.serializers",
+        "description": "Backend.rutina.api.serializers",
+        "peekOfCode": "class RutinaSerializer(ModelSerializer):\n    dias = DiaRutinaSerializer(many=True, read_only=True)\n    class Meta:\n        model = Rutina\n        fields = ['id', 'nombre', 'user', 'fecha_creacion', 'cantidad_dias', 'activa', 'dias']\n        read_only_fields = ['id', 'fecha_creacion']",
+        "detail": "Backend.rutina.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "RutinaViewSet",
+        "kind": 6,
+        "importPath": "Backend.rutina.api.views",
+        "description": "Backend.rutina.api.views",
+        "peekOfCode": "class RutinaViewSet(ModelViewSet):\n    permission_classes = [IsAuthenticated]\n    \"\"\"\n    API endpoint that allows users to view or edit routines.\n    \"\"\"\n    queryset = Rutina.objects.all()\n    serializer_class = RutinaSerializer\n    def perform_create(self, serializer):\n        # Asociar la rutina con el usuario logueado\n        serializer.save(user=self.request.user)",
+        "detail": "Backend.rutina.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "DiaRutinaViewSet",
+        "kind": 6,
+        "importPath": "Backend.rutina.api.views",
+        "description": "Backend.rutina.api.views",
+        "peekOfCode": "class DiaRutinaViewSet(ModelViewSet):\n    permission_classes = [IsAuthenticated]\n    serializer_class = DiaRutinaSerializer\n    def get_queryset(self):\n        # Obtén el pk de la rutina desde la URL\n        rutina_id = self.kwargs['rutina_pk']\n        return DiaRutina.objects.filter(rutina__id=rutina_id)\n    def perform_create(self, serializer):\n        # Obtén el objeto Rutina\n        rutina_id = self.kwargs['rutina_pk']",
+        "detail": "Backend.rutina.api.views",
         "documentation": {}
     },
     {
