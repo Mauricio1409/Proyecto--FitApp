@@ -1,35 +1,30 @@
 from rest_framework.viewsets import ModelViewSet
 from alimento.models import Alimento, AlimentoMomentoDia
 from alimento.api.serializers import AlimentoSerializer, AlimentoMomentoDiaSerializer
-from Backend.alimento.models import AlimentoMomentoDia
-from rest_framework.exceptions import NotFound
-from dieta.models import Dieta, DiaDieta
-from django.core.exceptions import ObjectDoesNotExist
+from dieta.models import MomentoDia
+from rest_framework.permissions import IsAuthenticated
 
 
 class AlimentoViewSet(ModelViewSet):
     queryset = Alimento.objects.all()
     serializer_class = AlimentoSerializer
     
+from rest_framework.exceptions import NotFound
+from django.shortcuts import get_object_or_404
+
 class AlimentoMomentoDiaViewSet(ModelViewSet):
-    """
-    API endpoint that allows AlimentoMomentoDia to be viewed or edited.
-    """
-    
+    permission_classes = [IsAuthenticated]
     serializer_class = AlimentoMomentoDiaSerializer
-    
+
     def get_queryset(self):
-        dieta_pk = self.kwargs['dieta_pk']
-        dia_dieta_pk = self.kwargs['dia_dieta_pk']
         momento_dia_pk = self.kwargs['momento_dia_pk']
-        
-        # Validar que la dieta, el día de la dieta y el momento del día existen
-        try:
-            dieta = Dieta.objects.get(id=dieta_pk)
-            dia_dieta = DiaDieta.objects.get(id=dia_dieta_pk, dieta=dieta)
-            momento_dia = AlimentoMomentoDia.objects.get(id=momento_dia_pk, dia_dieta=dia_dieta)
-        except ObjectDoesNotExist:
-            raise NotFound('La dieta, el día de la dieta o el momento del día no existen o no están relacionados correctamente.')
-        
-        # Filtrar los alimentos asociados al momento del día
+
+        # Usamos get_object_or_404 para dar error 404 automáticamente si no existe
+        momento_dia = get_object_or_404(MomentoDia, id=momento_dia_pk)
+
         return AlimentoMomentoDia.objects.filter(momento_dia=momento_dia)
+
+    def perform_create(self, serializer):
+        momento_dia_pk = self.kwargs['momento_dia_pk']
+        momento_dia = get_object_or_404(MomentoDia, id=momento_dia_pk)
+        serializer.save(momento_dia=momento_dia)

@@ -8,8 +8,31 @@ class EjercicioViewSet(ModelViewSet):
     """
     API endpoint that allows Ejercicios to be viewed or edited.
     """
-    queryset = Ejercicio.objects.all()
     serializer_class = EjercicioSerializer
+    
+    def get_queryset(self):
+        nombre = self.request.query_params.get('nombre')
+        orden = self.request.query_params.get('orden')
+        tipo = self.request.query_params.get('tipo')
+
+        queryset = Ejercicio.objects.all()
+
+        # Filtrar por nombre que comienza con...
+        if nombre:
+            queryset = queryset.filter(nombre__istartswith=nombre)
+
+        # Filtrar por tipo de ejercicio (contenido parcial, sin importar mayúsculas)
+        if tipo:
+            queryset = queryset.filter(tipo_ejercicio__icontains=tipo)
+
+        # Ordenar por campo válido
+        if orden in ['nombre', '-nombre', 'tipo_ejercicio', '-tipo_ejercicio']:
+            queryset = queryset.order_by(orden)
+
+        return queryset
+
+    
+
     
     
 class EjercicioDiaRutinaViewSet(ModelViewSet):

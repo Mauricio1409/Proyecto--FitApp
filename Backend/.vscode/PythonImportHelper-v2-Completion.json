@@ -1,195 +1,194 @@
 [
     {
-        "label": "django.db.models.deletion",
-        "kind": 6,
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
         "isExtraImport": true,
-        "importPath": "django.db.models.deletion",
-        "description": "django.db.models.deletion",
-        "detail": "django.db.models.deletion",
+        "detail": "rest_framework.routers",
         "documentation": {}
     },
     {
-        "label": "migrations",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
         "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "rest_framework.routers",
         "documentation": {}
     },
     {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
         "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "rest_framework.routers",
         "documentation": {}
     },
     {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "NestedDefaultRouter",
+        "importPath": "rest_framework_nested.routers",
+        "description": "rest_framework_nested.routers",
         "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "rest_framework_nested.routers",
         "documentation": {}
     },
     {
-        "label": "migrations",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "NestedDefaultRouter",
+        "importPath": "rest_framework_nested.routers",
+        "description": "rest_framework_nested.routers",
         "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "rest_framework_nested.routers",
         "documentation": {}
     },
     {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "NestedSimpleRouter",
+        "importPath": "rest_framework_nested.routers",
+        "description": "rest_framework_nested.routers",
         "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "rest_framework_nested.routers",
         "documentation": {}
     },
     {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "DefaultRouter",
+        "importPath": "rest_framework_nested.routers",
+        "description": "rest_framework_nested.routers",
         "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "rest_framework_nested.routers",
         "documentation": {}
     },
     {
-        "label": "migrations",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "NestedDefaultRouter",
+        "importPath": "rest_framework_nested.routers",
+        "description": "rest_framework_nested.routers",
         "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "rest_framework_nested.routers",
         "documentation": {}
     },
     {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "AlimentoViewSet",
+        "importPath": "alimento.api.views",
+        "description": "alimento.api.views",
         "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "alimento.api.views",
         "documentation": {}
     },
     {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "AlimentoMomentoDiaViewSet",
+        "importPath": "alimento.api.views",
+        "description": "alimento.api.views",
         "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "alimento.api.views",
         "documentation": {}
     },
     {
-        "label": "migrations",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "router_momento_dia",
+        "importPath": "dieta.api.router",
+        "description": "dieta.api.router",
         "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "dieta.api.router",
         "documentation": {}
     },
     {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "router_dieta",
+        "importPath": "dieta.api.router",
+        "description": "dieta.api.router",
         "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "dieta.api.router",
         "documentation": {}
     },
     {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "router_momento_dia",
+        "importPath": "dieta.api.router",
+        "description": "dieta.api.router",
         "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "dieta.api.router",
         "documentation": {}
     },
     {
-        "label": "migrations",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "router_dia_dieta",
+        "importPath": "dieta.api.router",
+        "description": "dieta.api.router",
         "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "dieta.api.router",
         "documentation": {}
     },
     {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "ModelSerializer",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
         "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "rest_framework.serializers",
         "documentation": {}
     },
     {
-        "label": "migrations",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "ModelSerializer",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
         "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "rest_framework.serializers",
         "documentation": {}
     },
     {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "ModelSerializer",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
         "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "rest_framework.serializers",
         "documentation": {}
     },
     {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "StringRelatedField",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
         "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "rest_framework.serializers",
         "documentation": {}
     },
     {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
+        "label": "ModelSerializer",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
         "isExtraImport": true,
-        "detail": "django.contrib",
+        "detail": "rest_framework.serializers",
         "documentation": {}
     },
     {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
+        "label": "ModelSerializer",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
         "isExtraImport": true,
-        "detail": "django.contrib",
+        "detail": "rest_framework.serializers",
         "documentation": {}
     },
     {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
+        "label": "Alimento",
+        "importPath": "alimento.models",
+        "description": "alimento.models",
         "isExtraImport": true,
-        "detail": "django.contrib",
+        "detail": "alimento.models",
         "documentation": {}
     },
     {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
+        "label": "AlimentoMomentoDia",
+        "importPath": "alimento.models",
+        "description": "alimento.models",
         "isExtraImport": true,
-        "detail": "django.contrib",
+        "detail": "alimento.models",
         "documentation": {}
     },
     {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
+        "label": "Alimento",
+        "importPath": "alimento.models",
+        "description": "alimento.models",
         "isExtraImport": true,
-        "detail": "django.contrib",
+        "detail": "alimento.models",
         "documentation": {}
     },
     {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
+        "label": "AlimentoMomentoDia",
+        "importPath": "alimento.models",
+        "description": "alimento.models",
         "isExtraImport": true,
-        "detail": "django.contrib",
+        "detail": "alimento.models",
         "documentation": {}
     },
     {
@@ -217,43 +216,75 @@
         "documentation": {}
     },
     {
-        "label": "AppConfig",
-        "importPath": "django.apps",
-        "description": "django.apps",
+        "label": "ModelViewSet",
+        "importPath": "rest_framework.viewsets",
+        "description": "rest_framework.viewsets",
         "isExtraImport": true,
-        "detail": "django.apps",
+        "detail": "rest_framework.viewsets",
         "documentation": {}
     },
     {
-        "label": "AppConfig",
-        "importPath": "django.apps",
-        "description": "django.apps",
+        "label": "ModelViewSet",
+        "importPath": "rest_framework.viewsets",
+        "description": "rest_framework.viewsets",
         "isExtraImport": true,
-        "detail": "django.apps",
+        "detail": "rest_framework.viewsets",
         "documentation": {}
     },
     {
-        "label": "AppConfig",
-        "importPath": "django.apps",
-        "description": "django.apps",
+        "label": "ModelViewSet",
+        "importPath": "rest_framework.viewsets",
+        "description": "rest_framework.viewsets",
         "isExtraImport": true,
-        "detail": "django.apps",
+        "detail": "rest_framework.viewsets",
         "documentation": {}
     },
     {
-        "label": "AppConfig",
-        "importPath": "django.apps",
-        "description": "django.apps",
+        "label": "ModelViewSet",
+        "importPath": "rest_framework.viewsets",
+        "description": "rest_framework.viewsets",
         "isExtraImport": true,
-        "detail": "django.apps",
+        "detail": "rest_framework.viewsets",
         "documentation": {}
     },
     {
-        "label": "AppConfig",
-        "importPath": "django.apps",
-        "description": "django.apps",
+        "label": "AlimentoSerializer",
+        "importPath": "alimento.api.serializers",
+        "description": "alimento.api.serializers",
         "isExtraImport": true,
-        "detail": "django.apps",
+        "detail": "alimento.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoMomentoDiaSerializer",
+        "importPath": "alimento.api.serializers",
+        "description": "alimento.api.serializers",
+        "isExtraImport": true,
+        "detail": "alimento.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoSerializer",
+        "importPath": "alimento.api.serializers",
+        "description": "alimento.api.serializers",
+        "isExtraImport": true,
+        "detail": "alimento.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoMomentoDiaSerializer",
+        "importPath": "alimento.api.serializers",
+        "description": "alimento.api.serializers",
+        "isExtraImport": true,
+        "detail": "alimento.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "MomentoDia",
+        "importPath": "dieta.models",
+        "description": "dieta.models",
+        "isExtraImport": true,
+        "detail": "dieta.models",
         "documentation": {}
     },
     {
@@ -289,43 +320,107 @@
         "documentation": {}
     },
     {
-        "label": "TestCase",
-        "importPath": "django.test",
-        "description": "django.test",
+        "label": "DiaDieta",
+        "importPath": "dieta.models",
+        "description": "dieta.models",
         "isExtraImport": true,
-        "detail": "django.test",
+        "detail": "dieta.models",
         "documentation": {}
     },
     {
-        "label": "TestCase",
-        "importPath": "django.test",
-        "description": "django.test",
+        "label": "Dieta",
+        "importPath": "dieta.models",
+        "description": "dieta.models",
         "isExtraImport": true,
-        "detail": "django.test",
+        "detail": "dieta.models",
         "documentation": {}
     },
     {
-        "label": "TestCase",
-        "importPath": "django.test",
-        "description": "django.test",
+        "label": "MomentoDia",
+        "importPath": "dieta.models",
+        "description": "dieta.models",
         "isExtraImport": true,
-        "detail": "django.test",
+        "detail": "dieta.models",
         "documentation": {}
     },
     {
-        "label": "TestCase",
-        "importPath": "django.test",
-        "description": "django.test",
+        "label": "Dieta",
+        "importPath": "dieta.models",
+        "description": "dieta.models",
         "isExtraImport": true,
-        "detail": "django.test",
+        "detail": "dieta.models",
         "documentation": {}
     },
     {
-        "label": "TestCase",
-        "importPath": "django.test",
-        "description": "django.test",
+        "label": "DiaDieta",
+        "importPath": "dieta.models",
+        "description": "dieta.models",
         "isExtraImport": true,
-        "detail": "django.test",
+        "detail": "dieta.models",
+        "documentation": {}
+    },
+    {
+        "label": "MomentoDia",
+        "importPath": "dieta.models",
+        "description": "dieta.models",
+        "isExtraImport": true,
+        "detail": "dieta.models",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "NotFound",
+        "importPath": "rest_framework.exceptions",
+        "description": "rest_framework.exceptions",
+        "isExtraImport": true,
+        "detail": "rest_framework.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NotFound",
+        "importPath": "rest_framework.exceptions",
+        "description": "rest_framework.exceptions",
+        "isExtraImport": true,
+        "detail": "rest_framework.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
         "documentation": {}
     },
     {
@@ -377,11 +472,333 @@
         "documentation": {}
     },
     {
-        "label": "settings",
-        "importPath": "django.conf",
-        "description": "django.conf",
+        "label": "django.db.models.deletion",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "django.conf",
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "django.db",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db",
+        "description": "django.db",
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "DietaViewSet",
+        "importPath": "dieta.api.views",
+        "description": "dieta.api.views",
+        "isExtraImport": true,
+        "detail": "dieta.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "DiaDietaViewSet",
+        "importPath": "dieta.api.views",
+        "description": "dieta.api.views",
+        "isExtraImport": true,
+        "detail": "dieta.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "MomentoDiaViewSet",
+        "importPath": "dieta.api.views",
+        "description": "dieta.api.views",
+        "isExtraImport": true,
+        "detail": "dieta.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "DiaDietaSerializer",
+        "importPath": "dieta.api.serializer",
+        "description": "dieta.api.serializer",
+        "isExtraImport": true,
+        "detail": "dieta.api.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "DietaSerializer",
+        "importPath": "dieta.api.serializer",
+        "description": "dieta.api.serializer",
+        "isExtraImport": true,
+        "detail": "dieta.api.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "MomentoDiaSerializer",
+        "importPath": "dieta.api.serializer",
+        "description": "dieta.api.serializer",
+        "isExtraImport": true,
+        "detail": "dieta.api.serializer",
         "documentation": {}
     },
     {
@@ -393,11 +810,11 @@
         "documentation": {}
     },
     {
-        "label": "User",
-        "importPath": "user.models",
-        "description": "user.models",
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
         "isExtraImport": true,
-        "detail": "user.models",
+        "detail": "django.conf",
         "documentation": {}
     },
     {
@@ -430,6 +847,54 @@
         "description": "user.models",
         "isExtraImport": true,
         "detail": "user.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "user.models",
+        "description": "user.models",
+        "isExtraImport": true,
+        "detail": "user.models",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioViewSet",
+        "importPath": "ejercicio.api.views",
+        "description": "ejercicio.api.views",
+        "isExtraImport": true,
+        "detail": "ejercicio.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioDiaRutinaViewSet",
+        "importPath": "ejercicio.api.views",
+        "description": "ejercicio.api.views",
+        "isExtraImport": true,
+        "detail": "ejercicio.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "rutinas_router",
+        "importPath": "rutina.api.router",
+        "description": "rutina.api.router",
+        "isExtraImport": true,
+        "detail": "rutina.api.router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "rutina.api.router",
+        "description": "rutina.api.router",
+        "isExtraImport": true,
+        "detail": "rutina.api.router",
+        "documentation": {}
+    },
+    {
+        "label": "rutinas_router",
+        "importPath": "rutina.api.router",
+        "description": "rutina.api.router",
+        "isExtraImport": true,
+        "detail": "rutina.api.router",
         "documentation": {}
     },
     {
@@ -462,6 +927,118 @@
         "description": "ejercicio.models",
         "isExtraImport": true,
         "detail": "ejercicio.models",
+        "documentation": {}
+    },
+    {
+        "label": "Ejercicio",
+        "importPath": "ejercicio.models",
+        "description": "ejercicio.models",
+        "isExtraImport": true,
+        "detail": "ejercicio.models",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioDiaRutina",
+        "importPath": "ejercicio.models",
+        "description": "ejercicio.models",
+        "isExtraImport": true,
+        "detail": "ejercicio.models",
+        "documentation": {}
+    },
+    {
+        "label": "Ejercicio",
+        "importPath": "ejercicio.models",
+        "description": "ejercicio.models",
+        "isExtraImport": true,
+        "detail": "ejercicio.models",
+        "documentation": {}
+    },
+    {
+        "label": "Ejercicio",
+        "importPath": "ejercicio.models",
+        "description": "ejercicio.models",
+        "isExtraImport": true,
+        "detail": "ejercicio.models",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioDiaRutina",
+        "importPath": "ejercicio.models",
+        "description": "ejercicio.models",
+        "isExtraImport": true,
+        "detail": "ejercicio.models",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioSerializer",
+        "importPath": "ejercicio.api.serializers",
+        "description": "ejercicio.api.serializers",
+        "isExtraImport": true,
+        "detail": "ejercicio.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioDiaRutinaSerializer",
+        "importPath": "ejercicio.api.serializers",
+        "description": "ejercicio.api.serializers",
+        "isExtraImport": true,
+        "detail": "ejercicio.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioSerializer",
+        "importPath": "ejercicio.api.serializers",
+        "description": "ejercicio.api.serializers",
+        "isExtraImport": true,
+        "detail": "ejercicio.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "DiaRutina",
+        "importPath": "rutina.models",
+        "description": "rutina.models",
+        "isExtraImport": true,
+        "detail": "rutina.models",
+        "documentation": {}
+    },
+    {
+        "label": "Rutina",
+        "importPath": "rutina.models",
+        "description": "rutina.models",
+        "isExtraImport": true,
+        "detail": "rutina.models",
+        "documentation": {}
+    },
+    {
+        "label": "DiaRutina",
+        "importPath": "rutina.models",
+        "description": "rutina.models",
+        "isExtraImport": true,
+        "detail": "rutina.models",
+        "documentation": {}
+    },
+    {
+        "label": "Rutina",
+        "importPath": "rutina.models",
+        "description": "rutina.models",
+        "isExtraImport": true,
+        "detail": "rutina.models",
+        "documentation": {}
+    },
+    {
+        "label": "DiaRutina",
+        "importPath": "rutina.models",
+        "description": "rutina.models",
+        "isExtraImport": true,
+        "detail": "rutina.models",
+        "documentation": {}
+    },
+    {
+        "label": "Rutina",
+        "importPath": "rutina.models",
+        "description": "rutina.models",
+        "isExtraImport": true,
+        "detail": "rutina.models",
         "documentation": {}
     },
     {
@@ -514,6 +1091,14 @@
         "documentation": {}
     },
     {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
         "label": "path",
         "importPath": "django.urls",
         "description": "django.urls",
@@ -554,6 +1139,38 @@
         "documentation": {}
     },
     {
+        "label": "router",
+        "importPath": "ejercicio.api.router",
+        "description": "ejercicio.api.router",
+        "isExtraImport": true,
+        "detail": "ejercicio.api.router",
+        "documentation": {}
+    },
+    {
+        "label": "diaEjercicio_router",
+        "importPath": "ejercicio.api.router",
+        "description": "ejercicio.api.router",
+        "isExtraImport": true,
+        "detail": "ejercicio.api.router",
+        "documentation": {}
+    },
+    {
+        "label": "router_alimento",
+        "importPath": "alimento.api.router",
+        "description": "alimento.api.router",
+        "isExtraImport": true,
+        "detail": "alimento.api.router",
+        "documentation": {}
+    },
+    {
+        "label": "router_momento_dia_alimento",
+        "importPath": "alimento.api.router",
+        "description": "alimento.api.router",
+        "isExtraImport": true,
+        "detail": "alimento.api.router",
+        "documentation": {}
+    },
+    {
         "label": "get_wsgi_application",
         "importPath": "django.core.wsgi",
         "description": "django.core.wsgi",
@@ -562,11 +1179,59 @@
         "documentation": {}
     },
     {
-        "label": "ModelSerializer",
-        "importPath": "rest_framework.serializers",
-        "description": "rest_framework.serializers",
+        "label": "RutinaViewSet",
+        "importPath": "rutina.api.views",
+        "description": "rutina.api.views",
         "isExtraImport": true,
-        "detail": "rest_framework.serializers",
+        "detail": "rutina.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "DiaRutinaViewSet",
+        "importPath": "rutina.api.views",
+        "description": "rutina.api.views",
+        "isExtraImport": true,
+        "detail": "rutina.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "RutinaSerializer",
+        "importPath": "rutina.api.serializers",
+        "description": "rutina.api.serializers",
+        "isExtraImport": true,
+        "detail": "rutina.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "DiaRutinaSerializer",
+        "importPath": "rutina.api.serializers",
+        "description": "rutina.api.serializers",
+        "isExtraImport": true,
+        "detail": "rutina.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "action",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
         "documentation": {}
     },
     {
@@ -610,14 +1275,6 @@
         "documentation": {}
     },
     {
-        "label": "Response",
-        "importPath": "rest_framework.response",
-        "description": "rest_framework.response",
-        "isExtraImport": true,
-        "detail": "rest_framework.response",
-        "documentation": {}
-    },
-    {
         "label": "status",
         "importPath": "rest_framework",
         "description": "rest_framework",
@@ -647,14 +1304,6 @@
         "description": "user.api.serializer",
         "isExtraImport": true,
         "detail": "user.api.serializer",
-        "documentation": {}
-    },
-    {
-        "label": "IsAuthenticated",
-        "importPath": "rest_framework.permissions",
-        "description": "rest_framework.permissions",
-        "isExtraImport": true,
-        "detail": "rest_framework.permissions",
         "documentation": {}
     },
     {
@@ -710,6 +1359,60 @@
         "documentation": {}
     },
     {
+        "label": "router_alimento",
+        "kind": 5,
+        "importPath": "alimento.api.router",
+        "description": "alimento.api.router",
+        "peekOfCode": "router_alimento = DefaultRouter()\nrouter_alimento.register(prefix='alimentos', viewset=AlimentoViewSet, basename='alimentos')\nrouter_momento_dia_alimento = NestedDefaultRouter(momento_router, 'momentos', lookup='momento_dia')\nrouter_momento_dia_alimento.register('alimentos', AlimentoMomentoDiaViewSet, basename='alimento-momentodia')",
+        "detail": "alimento.api.router",
+        "documentation": {}
+    },
+    {
+        "label": "router_momento_dia_alimento",
+        "kind": 5,
+        "importPath": "alimento.api.router",
+        "description": "alimento.api.router",
+        "peekOfCode": "router_momento_dia_alimento = NestedDefaultRouter(momento_router, 'momentos', lookup='momento_dia')\nrouter_momento_dia_alimento.register('alimentos', AlimentoMomentoDiaViewSet, basename='alimento-momentodia')",
+        "detail": "alimento.api.router",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoSerializer",
+        "kind": 6,
+        "importPath": "alimento.api.serializers",
+        "description": "alimento.api.serializers",
+        "peekOfCode": "class AlimentoSerializer(ModelSerializer):\n    class Meta:\n        model = Alimento\n        fields = ['id', 'nombre', 'porcion', 'unidad', 'calorias', 'proteinas', 'carbohidratos', 'grasas', 'fibra', 'azucares']\nclass AlimentoMomentoDiaSerializer(ModelSerializer):\n    class Meta:\n        model = AlimentoMomentoDia\n        fields = ['id', 'alimento', 'momento_dia', 'cantidad', 'observaciones']\n        read_only_fields = ['id']",
+        "detail": "alimento.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoMomentoDiaSerializer",
+        "kind": 6,
+        "importPath": "alimento.api.serializers",
+        "description": "alimento.api.serializers",
+        "peekOfCode": "class AlimentoMomentoDiaSerializer(ModelSerializer):\n    class Meta:\n        model = AlimentoMomentoDia\n        fields = ['id', 'alimento', 'momento_dia', 'cantidad', 'observaciones']\n        read_only_fields = ['id']",
+        "detail": "alimento.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoViewSet",
+        "kind": 6,
+        "importPath": "alimento.api.views",
+        "description": "alimento.api.views",
+        "peekOfCode": "class AlimentoViewSet(ModelViewSet):\n    queryset = Alimento.objects.all()\n    serializer_class = AlimentoSerializer\nfrom rest_framework.exceptions import NotFound\nfrom django.shortcuts import get_object_or_404\nclass AlimentoMomentoDiaViewSet(ModelViewSet):\n    permission_classes = [IsAuthenticated]\n    serializer_class = AlimentoMomentoDiaSerializer\n    def get_queryset(self):\n        momento_dia_pk = self.kwargs['momento_dia_pk']",
+        "detail": "alimento.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoMomentoDiaViewSet",
+        "kind": 6,
+        "importPath": "alimento.api.views",
+        "description": "alimento.api.views",
+        "peekOfCode": "class AlimentoMomentoDiaViewSet(ModelViewSet):\n    permission_classes = [IsAuthenticated]\n    serializer_class = AlimentoMomentoDiaSerializer\n    def get_queryset(self):\n        momento_dia_pk = self.kwargs['momento_dia_pk']\n        # Usamos get_object_or_404 para dar error 404 automáticamente si no existe\n        momento_dia = get_object_or_404(MomentoDia, id=momento_dia_pk)\n        return AlimentoMomentoDia.objects.filter(momento_dia=momento_dia)\n    def perform_create(self, serializer):\n        momento_dia_pk = self.kwargs['momento_dia_pk']",
+        "detail": "alimento.api.views",
+        "documentation": {}
+    },
+    {
         "label": "Migration",
         "kind": 6,
         "importPath": "alimento.migrations.0001_initial",
@@ -761,6 +1464,87 @@
         "description": "alimento.models",
         "peekOfCode": "class AlimentoMomentoDia(models.Model):\n    alimento = models.ForeignKey(Alimento, on_delete=models.CASCADE)\n    momento_dia = models.ForeignKey(MomentoDia, on_delete=models.CASCADE)\n    cantidad = models.FloatField()\n    observaciones = models.TextField(blank=True, null=True)\n    def __str__(self):\n        return f'{self.alimento.nombre} - {self.momento_dia.descripcion}'",
         "detail": "alimento.models",
+        "documentation": {}
+    },
+    {
+        "label": "router_dieta",
+        "kind": 5,
+        "importPath": "dieta.api.router",
+        "description": "dieta.api.router",
+        "peekOfCode": "router_dieta = DefaultRouter()\nrouter_dieta.register(prefix='dietas', viewset=DietaViewSet, basename='dieta')\nrouter_dia_dieta = NestedDefaultRouter(router_dieta, 'dietas', lookup='dieta')\nrouter_dia_dieta.register('dias', DiaDietaViewSet, basename='dieta-dias')\nrouter_momento_dia = NestedDefaultRouter(router_dia_dieta, 'dias', lookup='dia_dieta')\nrouter_momento_dia.register('momentos', MomentoDiaViewSet, basename='dia-momentos')",
+        "detail": "dieta.api.router",
+        "documentation": {}
+    },
+    {
+        "label": "router_dia_dieta",
+        "kind": 5,
+        "importPath": "dieta.api.router",
+        "description": "dieta.api.router",
+        "peekOfCode": "router_dia_dieta = NestedDefaultRouter(router_dieta, 'dietas', lookup='dieta')\nrouter_dia_dieta.register('dias', DiaDietaViewSet, basename='dieta-dias')\nrouter_momento_dia = NestedDefaultRouter(router_dia_dieta, 'dias', lookup='dia_dieta')\nrouter_momento_dia.register('momentos', MomentoDiaViewSet, basename='dia-momentos')",
+        "detail": "dieta.api.router",
+        "documentation": {}
+    },
+    {
+        "label": "router_momento_dia",
+        "kind": 5,
+        "importPath": "dieta.api.router",
+        "description": "dieta.api.router",
+        "peekOfCode": "router_momento_dia = NestedDefaultRouter(router_dia_dieta, 'dias', lookup='dia_dieta')\nrouter_momento_dia.register('momentos', MomentoDiaViewSet, basename='dia-momentos')",
+        "detail": "dieta.api.router",
+        "documentation": {}
+    },
+    {
+        "label": "MomentoDiaSerializer",
+        "kind": 6,
+        "importPath": "dieta.api.serializer",
+        "description": "dieta.api.serializer",
+        "peekOfCode": "class MomentoDiaSerializer(ModelSerializer):\n    alimentos = AlimentoSerializer(many=True, read_only=True)\n    class Meta:\n        model = MomentoDia\n        fields = ['id', 'dia_dieta', 'momento', 'descripcion', 'alimentos']\n        read_only_fields = ['id', 'dia_dieta']\nclass DiaDietaSerializer(ModelSerializer):\n    momentos_dia = MomentoDiaSerializer(many=True, read_only=True)\n    class Meta:\n        model = DiaDieta",
+        "detail": "dieta.api.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "DiaDietaSerializer",
+        "kind": 6,
+        "importPath": "dieta.api.serializer",
+        "description": "dieta.api.serializer",
+        "peekOfCode": "class DiaDietaSerializer(ModelSerializer):\n    momentos_dia = MomentoDiaSerializer(many=True, read_only=True)\n    class Meta:\n        model = DiaDieta\n        fields = ['id', 'dieta', 'fecha', 'dia', 'descripcion', 'momentos_dia']\n        read_only_fields = ['id', 'dieta', 'fecha']\nclass DietaSerializer(ModelSerializer):\n    dias_dieta = DiaDietaSerializer(many=True, read_only=True)\n    class Meta:\n        model = Dieta",
+        "detail": "dieta.api.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "DietaSerializer",
+        "kind": 6,
+        "importPath": "dieta.api.serializer",
+        "description": "dieta.api.serializer",
+        "peekOfCode": "class DietaSerializer(ModelSerializer):\n    dias_dieta = DiaDietaSerializer(many=True, read_only=True)\n    class Meta:\n        model = Dieta\n        fields = ['id', 'nombre', 'usuario', 'fecha_inicio', 'activa', 'dias_dieta']\n        read_only_fields = ['id', 'usuario', 'fecha_inicio']",
+        "detail": "dieta.api.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "DietaViewSet",
+        "kind": 6,
+        "importPath": "dieta.api.views",
+        "description": "dieta.api.views",
+        "peekOfCode": "class DietaViewSet(ModelViewSet):\n    \"\"\"\n    API endpoint that allows users to view or edit dieta instances.\n    \"\"\"\n    queryset = Dieta.objects.all()\n    serializer_class = DietaSerializer\n    permission_classes = [IsAuthenticated]\n    def perform_create(self, serializer):\n        serializer.save(user=self.request.user)\nclass DiaDietaViewSet(ModelViewSet):",
+        "detail": "dieta.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "DiaDietaViewSet",
+        "kind": 6,
+        "importPath": "dieta.api.views",
+        "description": "dieta.api.views",
+        "peekOfCode": "class DiaDietaViewSet(ModelViewSet):\n    permission_classes = [IsAuthenticated]\n    serializer_class = DiaDietaSerializer\n    def get_queryset(self):\n        dieta_id = self.kwargs['dieta_pk']\n        return DiaDieta.objects.filter(dieta__id=dieta_id)\n    def perform_create(self, serializer):\n        dieta_id = self.kwargs['dieta_pk']\n        dieta = Dieta.objects.get(id=dieta_id)\n        serializer.save(dieta=dieta)",
+        "detail": "dieta.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "MomentoDiaViewSet",
+        "kind": 6,
+        "importPath": "dieta.api.views",
+        "description": "dieta.api.views",
+        "peekOfCode": "class MomentoDiaViewSet(ModelViewSet):\n        permission_classes = [IsAuthenticated]\n        serializer_class = MomentoDiaSerializer\n        def get_queryset(self):\n            dia_dieta_id = self.kwargs['dia_dieta_pk']\n            return MomentoDia.objects.filter(dia_dieta__id=dia_dieta_id)\n        def perform_create(self, serializer):\n            dia_dieta_id = self.kwargs['dia_dieta_pk']\n            dia_dieta = DiaDieta.objects.get(id=dia_dieta_id)\n            serializer.save(dia_dieta=dia_dieta)",
+        "detail": "dieta.api.views",
         "documentation": {}
     },
     {
@@ -860,6 +1644,60 @@
         "description": "dieta.models",
         "peekOfCode": "class MomentoDia(models.Model):\n    dia_dieta = models.ForeignKey(DiaDieta, on_delete=models.CASCADE, related_name='momentos_dia')\n    momento = models.CharField(choices=[('desayuno', 'Desayuno'), ('almuerzo', 'Almuerzo'), \n                                        ('cena', 'Cena'), ('snack', 'Snack')], max_length=10)\n    descripcion = models.TextField()\n    def __str__(self):\n        return f\"{self.dia_dieta.dia} - {self.momento}\"",
         "detail": "dieta.models",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "ejercicio.api.router",
+        "description": "ejercicio.api.router",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register(prefix='ejercicio', basename='ejercicio', viewset=EjercicioViewSet)\n# Router anidado para ejercicios por día\ndiaEjercicio_router = NestedSimpleRouter(dias_router, r'dias', lookup='dia_rutina')\ndiaEjercicio_router.register(r'ejercicios', EjercicioDiaRutinaViewSet, basename='dia-ejercicio')",
+        "detail": "ejercicio.api.router",
+        "documentation": {}
+    },
+    {
+        "label": "diaEjercicio_router",
+        "kind": 5,
+        "importPath": "ejercicio.api.router",
+        "description": "ejercicio.api.router",
+        "peekOfCode": "diaEjercicio_router = NestedSimpleRouter(dias_router, r'dias', lookup='dia_rutina')\ndiaEjercicio_router.register(r'ejercicios', EjercicioDiaRutinaViewSet, basename='dia-ejercicio')",
+        "detail": "ejercicio.api.router",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioSerializer",
+        "kind": 6,
+        "importPath": "ejercicio.api.serializers",
+        "description": "ejercicio.api.serializers",
+        "peekOfCode": "class EjercicioSerializer(ModelSerializer):\n    class Meta:\n        model = Ejercicio\n        fields = ['id', 'nombre', 'grupo_muscular', 'descripcion', 'tipo_ejercicio', 'url_video']\n        read_only_fields = ['id']\nclass EjercicioDiaRutinaSerializer(ModelSerializer):\n    class Meta:\n        model = EjercicioDiaRutina\n        fields = ['id', 'ejercicio', 'dia_rutina', 'repeticiones', 'series', 'peso', 'orden']",
+        "detail": "ejercicio.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioDiaRutinaSerializer",
+        "kind": 6,
+        "importPath": "ejercicio.api.serializers",
+        "description": "ejercicio.api.serializers",
+        "peekOfCode": "class EjercicioDiaRutinaSerializer(ModelSerializer):\n    class Meta:\n        model = EjercicioDiaRutina\n        fields = ['id', 'ejercicio', 'dia_rutina', 'repeticiones', 'series', 'peso', 'orden']",
+        "detail": "ejercicio.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioViewSet",
+        "kind": 6,
+        "importPath": "ejercicio.api.views",
+        "description": "ejercicio.api.views",
+        "peekOfCode": "class EjercicioViewSet(ModelViewSet):\n    \"\"\"\n    API endpoint that allows Ejercicios to be viewed or edited.\n    \"\"\"\n    serializer_class = EjercicioSerializer\n    def get_queryset(self):\n        nombre = self.request.query_params.get('nombre')\n        orden = self.request.query_params.get('orden')\n        tipo = self.request.query_params.get('tipo')\n        queryset = Ejercicio.objects.all()",
+        "detail": "ejercicio.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "EjercicioDiaRutinaViewSet",
+        "kind": 6,
+        "importPath": "ejercicio.api.views",
+        "description": "ejercicio.api.views",
+        "peekOfCode": "class EjercicioDiaRutinaViewSet(ModelViewSet):\n    \"\"\"\n    API endpoint that allows EjercicioDiaRutina to be viewed or edited.\n    \"\"\"\n    serializer_class = EjercicioDiaRutinaSerializer\n    def get_queryset(self):\n            rutina_pk = self.kwargs['rutina_pk']\n            dia_pk = self.kwargs['dia_pk']\n            # Validar que el día pertenece a la rutina\n            try:",
+        "detail": "ejercicio.api.views",
         "documentation": {}
     },
     {
@@ -1074,7 +1912,7 @@
         "kind": 5,
         "importPath": "fitApp.settings",
         "description": "fitApp.settings",
-        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'user.User'\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    )\n}",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'user.User'\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    )\n}\nfrom datetime import timedelta\nSIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': timedelta(hours=1), ",
         "detail": "fitApp.settings",
         "documentation": {}
     },
@@ -1083,7 +1921,7 @@
         "kind": 5,
         "importPath": "fitApp.settings",
         "description": "fitApp.settings",
-        "peekOfCode": "AUTH_USER_MODEL = 'user.User'\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    )\n}",
+        "peekOfCode": "AUTH_USER_MODEL = 'user.User'\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    )\n}\nfrom datetime import timedelta\nSIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': timedelta(hours=1), \n    'REFRESH_TOKEN_LIFETIME': timedelta(days=7),  ",
         "detail": "fitApp.settings",
         "documentation": {}
     },
@@ -1092,7 +1930,16 @@
         "kind": 5,
         "importPath": "fitApp.settings",
         "description": "fitApp.settings",
-        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    )\n}",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    )\n}\nfrom datetime import timedelta\nSIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': timedelta(hours=1), \n    'REFRESH_TOKEN_LIFETIME': timedelta(days=7),  \n    'ROTATE_REFRESH_TOKENS': False,",
+        "detail": "fitApp.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SIMPLE_JWT",
+        "kind": 5,
+        "importPath": "fitApp.settings",
+        "description": "fitApp.settings",
+        "peekOfCode": "SIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': timedelta(hours=1), \n    'REFRESH_TOKEN_LIFETIME': timedelta(days=7),  \n    'ROTATE_REFRESH_TOKENS': False,\n    'BLACKLIST_AFTER_ROTATION': True,\n    'AUTH_HEADER_TYPES': ('Bearer',),\n}",
         "detail": "fitApp.settings",
         "documentation": {}
     },
@@ -1110,7 +1957,7 @@
         "kind": 5,
         "importPath": "fitApp.urls",
         "description": "fitApp.urls",
-        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api/', include('user.api.urls')),\n    path('docs/', schema_view.with_ui('swagger', cache_timeout=0), name='schema-swagger-ui'),\n    path('redoc/', schema_view.with_ui('redoc', cache_timeout=0), name='schema-redoc'),\n]",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api/', include('user.api.urls')),\n    path('docs/', schema_view.with_ui('swagger', cache_timeout=0), name='schema-swagger-ui'),\n    path('redoc/', schema_view.with_ui('redoc', cache_timeout=0), name='schema-redoc'),\n    path('api/', include(ejercicio_router.urls)),\n    path('api/', include(rutina_router.urls)),\n    path('api/', include(rutinas_router.urls)),\n    path('api/', include(diaEjercicio_router.urls)),\n    path('api/', include(router_dieta.urls)),",
         "detail": "fitApp.urls",
         "documentation": {}
     },
@@ -1121,6 +1968,60 @@
         "description": "fitApp.wsgi",
         "peekOfCode": "application = get_wsgi_application()",
         "detail": "fitApp.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "rutina.api.router",
+        "description": "rutina.api.router",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register('rutinas', RutinaViewSet, basename='rutina')\n# Nested router para los días dentro de una rutina\nrutinas_router = NestedDefaultRouter(router, 'rutinas', lookup='rutina')\nrutinas_router.register('dias', DiaRutinaViewSet, basename='dia-rutina')",
+        "detail": "rutina.api.router",
+        "documentation": {}
+    },
+    {
+        "label": "rutinas_router",
+        "kind": 5,
+        "importPath": "rutina.api.router",
+        "description": "rutina.api.router",
+        "peekOfCode": "rutinas_router = NestedDefaultRouter(router, 'rutinas', lookup='rutina')\nrutinas_router.register('dias', DiaRutinaViewSet, basename='dia-rutina')",
+        "detail": "rutina.api.router",
+        "documentation": {}
+    },
+    {
+        "label": "DiaRutinaSerializer",
+        "kind": 6,
+        "importPath": "rutina.api.serializers",
+        "description": "rutina.api.serializers",
+        "peekOfCode": "class DiaRutinaSerializer(ModelSerializer):\n    ejercicios = EjercicioSerializer(many=True, read_only=True)\n    class Meta:\n        model = DiaRutina\n        fields = ['id', 'rutina', 'descripcion', 'nro_dia', 'ejercicios']\nclass RutinaSerializer(ModelSerializer):\n    dias = DiaRutinaSerializer(many=True, read_only=True)\n    class Meta:\n        model = Rutina\n        fields = ['id', 'nombre', 'user', 'fecha_creacion', 'cantidad_dias', 'activa', 'dias']",
+        "detail": "rutina.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "RutinaSerializer",
+        "kind": 6,
+        "importPath": "rutina.api.serializers",
+        "description": "rutina.api.serializers",
+        "peekOfCode": "class RutinaSerializer(ModelSerializer):\n    dias = DiaRutinaSerializer(many=True, read_only=True)\n    class Meta:\n        model = Rutina\n        fields = ['id', 'nombre', 'user', 'fecha_creacion', 'cantidad_dias', 'activa', 'dias']\n        read_only_fields = ['id', 'fecha_creacion']",
+        "detail": "rutina.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "RutinaViewSet",
+        "kind": 6,
+        "importPath": "rutina.api.views",
+        "description": "rutina.api.views",
+        "peekOfCode": "class RutinaViewSet(ModelViewSet):\n    permission_classes = [IsAuthenticated]\n    \"\"\"\n    API endpoint that allows users to view or edit routines.\n    \"\"\"\n    queryset = Rutina.objects.all()\n    serializer_class = RutinaSerializer\n    def perform_create(self, serializer):\n        # Asociar la rutina con el usuario logueado\n        serializer.save(user=self.request.user)",
+        "detail": "rutina.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "DiaRutinaViewSet",
+        "kind": 6,
+        "importPath": "rutina.api.views",
+        "description": "rutina.api.views",
+        "peekOfCode": "class DiaRutinaViewSet(ModelViewSet):\n    permission_classes = [IsAuthenticated]\n    serializer_class = DiaRutinaSerializer\n    def get_queryset(self):\n        # Obtén el pk de la rutina desde la URL\n        rutina_id = self.kwargs['rutina_pk']\n        return DiaRutina.objects.filter(rutina__id=rutina_id)\n    def perform_create(self, serializer):\n        # Obtén el objeto Rutina\n        rutina_id = self.kwargs['rutina_pk']",
+        "detail": "rutina.api.views",
         "documentation": {}
     },
     {

@@ -7,5 +7,5 @@ router = DefaultRouter()
 router.register(prefix='ejercicio', basename='ejercicio', viewset=EjercicioViewSet)
 
 # Router anidado para ejercicios por día
-diaEjercicio_router = NestedSimpleRouter(dias_router, r'dias', lookup='dia')
+diaEjercicio_router = NestedSimpleRouter(dias_router, r'dias', lookup='dia_rutina')
 diaEjercicio_router.register(r'ejercicios', EjercicioDiaRutinaViewSet, basename='dia-ejercicio')

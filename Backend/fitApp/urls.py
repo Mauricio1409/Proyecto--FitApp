@@ -22,6 +22,8 @@ from ejercicio.api.router import router as ejercicio_router
 from rutina.api.router import router as rutina_router
 from rutina.api.router import rutinas_router
 from ejercicio.api.router import diaEjercicio_router
+from dieta.api.router import router_dieta, router_momento_dia, router_dia_dieta
+from alimento.api.router import router_alimento, router_momento_dia_alimento
 
 schema_view = get_schema_view(
    openapi.Info(
@@ -44,4 +46,9 @@ urlpatterns = [
     path('api/', include(rutina_router.urls)),
     path('api/', include(rutinas_router.urls)),
     path('api/', include(diaEjercicio_router.urls)),
+    path('api/', include(router_dieta.urls)),
+    path('api/', include(router_momento_dia.urls)),
+    path('api/', include(router_dia_dieta.urls)),
+    path('api/', include(router_alimento.urls)),
+    path('api/', include(router_momento_dia_alimento.urls)),
 ]

@@ -1,6 +1,5 @@
 from rest_framework.serializers import ModelSerializer
 from alimento.models import Alimento, AlimentoMomentoDia
-from Backend.alimento.models import AlimentoMomentoDia
 
 class AlimentoSerializer(ModelSerializer):
     class Meta:
