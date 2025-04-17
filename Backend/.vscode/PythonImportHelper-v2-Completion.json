@@ -1,5 +1,77 @@
 [
     {
+        "label": "rest_framework",
+        "importPath": "django_filters",
+        "description": "django_filters",
+        "isExtraImport": true,
+        "detail": "django_filters",
+        "documentation": {}
+    },
+    {
+        "label": "Alimento",
+        "importPath": "alimento.models",
+        "description": "alimento.models",
+        "isExtraImport": true,
+        "detail": "alimento.models",
+        "documentation": {}
+    },
+    {
+        "label": "Alimento",
+        "importPath": "alimento.models",
+        "description": "alimento.models",
+        "isExtraImport": true,
+        "detail": "alimento.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoMomentoDia",
+        "importPath": "alimento.models",
+        "description": "alimento.models",
+        "isExtraImport": true,
+        "detail": "alimento.models",
+        "documentation": {}
+    },
+    {
+        "label": "Alimento",
+        "importPath": "alimento.models",
+        "description": "alimento.models",
+        "isExtraImport": true,
+        "detail": "alimento.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoMomentoDia",
+        "importPath": "alimento.models",
+        "description": "alimento.models",
+        "isExtraImport": true,
+        "detail": "alimento.models",
+        "documentation": {}
+    },
+    {
+        "label": "Alimento",
+        "importPath": "alimento.models",
+        "description": "alimento.models",
+        "isExtraImport": true,
+        "detail": "alimento.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoMomentoDia",
+        "importPath": "alimento.models",
+        "description": "alimento.models",
+        "isExtraImport": true,
+        "detail": "alimento.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoMomentoDia",
+        "importPath": "alimento.models",
+        "description": "alimento.models",
+        "isExtraImport": true,
+        "detail": "alimento.models",
+        "documentation": {}
+    },
+    {
         "label": "DefaultRouter",
         "importPath": "rest_framework.routers",
         "description": "rest_framework.routers",
@@ -160,62 +232,6 @@
         "documentation": {}
     },
     {
-        "label": "Alimento",
-        "importPath": "alimento.models",
-        "description": "alimento.models",
-        "isExtraImport": true,
-        "detail": "alimento.models",
-        "documentation": {}
-    },
-    {
-        "label": "AlimentoMomentoDia",
-        "importPath": "alimento.models",
-        "description": "alimento.models",
-        "isExtraImport": true,
-        "detail": "alimento.models",
-        "documentation": {}
-    },
-    {
-        "label": "Alimento",
-        "importPath": "alimento.models",
-        "description": "alimento.models",
-        "isExtraImport": true,
-        "detail": "alimento.models",
-        "documentation": {}
-    },
-    {
-        "label": "AlimentoMomentoDia",
-        "importPath": "alimento.models",
-        "description": "alimento.models",
-        "isExtraImport": true,
-        "detail": "alimento.models",
-        "documentation": {}
-    },
-    {
-        "label": "Alimento",
-        "importPath": "alimento.models",
-        "description": "alimento.models",
-        "isExtraImport": true,
-        "detail": "alimento.models",
-        "documentation": {}
-    },
-    {
-        "label": "AlimentoMomentoDia",
-        "importPath": "alimento.models",
-        "description": "alimento.models",
-        "isExtraImport": true,
-        "detail": "alimento.models",
-        "documentation": {}
-    },
-    {
-        "label": "AlimentoMomentoDia",
-        "importPath": "alimento.models",
-        "description": "alimento.models",
-        "isExtraImport": true,
-        "detail": "alimento.models",
-        "documentation": {}
-    },
-    {
         "label": "ModelViewSet",
         "importPath": "rest_framework.viewsets",
         "description": "rest_framework.viewsets",
@@ -400,22 +416,6 @@
         "documentation": {}
     },
     {
-        "label": "NotFound",
-        "importPath": "rest_framework.exceptions",
-        "description": "rest_framework.exceptions",
-        "isExtraImport": true,
-        "detail": "rest_framework.exceptions",
-        "documentation": {}
-    },
-    {
-        "label": "NotFound",
-        "importPath": "rest_framework.exceptions",
-        "description": "rest_framework.exceptions",
-        "isExtraImport": true,
-        "detail": "rest_framework.exceptions",
-        "documentation": {}
-    },
-    {
         "label": "get_object_or_404",
         "importPath": "django.shortcuts",
         "description": "django.shortcuts",
@@ -469,6 +469,30 @@
         "description": "django.shortcuts",
         "isExtraImport": true,
         "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "DjangoFilterBackend",
+        "importPath": "django_filters.rest_framework",
+        "description": "django_filters.rest_framework",
+        "isExtraImport": true,
+        "detail": "django_filters.rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "OrderingFilter",
+        "importPath": "rest_framework.filters",
+        "description": "rest_framework.filters",
+        "isExtraImport": true,
+        "detail": "rest_framework.filters",
+        "documentation": {}
+    },
+    {
+        "label": "AlimentoFilter",
+        "importPath": "alimento.api.filtros",
+        "description": "alimento.api.filtros",
+        "isExtraImport": true,
+        "detail": "alimento.api.filtros",
         "documentation": {}
     },
     {
@@ -1066,6 +1090,14 @@
         "documentation": {}
     },
     {
+        "label": "NotFound",
+        "importPath": "rest_framework.exceptions",
+        "description": "rest_framework.exceptions",
+        "isExtraImport": true,
+        "detail": "rest_framework.exceptions",
+        "documentation": {}
+    },
+    {
         "label": "os",
         "kind": 6,
         "isExtraImport": true,
@@ -1359,6 +1391,15 @@
         "documentation": {}
     },
     {
+        "label": "AlimentoFilter",
+        "kind": 6,
+        "importPath": "alimento.api.filtros",
+        "description": "alimento.api.filtros",
+        "peekOfCode": "class AlimentoFilter(filters.FilterSet):\n    nombre = filters.CharFilter(field_name='nombre', lookup_expr='istartswith')\n    class Meta:\n        model = Alimento\n        fields = ['nombre']",
+        "detail": "alimento.api.filtros",
+        "documentation": {}
+    },
+    {
         "label": "router_alimento",
         "kind": 5,
         "importPath": "alimento.api.router",
@@ -1399,7 +1440,7 @@
         "kind": 6,
         "importPath": "alimento.api.views",
         "description": "alimento.api.views",
-        "peekOfCode": "class AlimentoViewSet(ModelViewSet):\n    queryset = Alimento.objects.all()\n    serializer_class = AlimentoSerializer\nfrom rest_framework.exceptions import NotFound\nfrom django.shortcuts import get_object_or_404\nclass AlimentoMomentoDiaViewSet(ModelViewSet):\n    permission_classes = [IsAuthenticated]\n    serializer_class = AlimentoMomentoDiaSerializer\n    def get_queryset(self):\n        momento_dia_pk = self.kwargs['momento_dia_pk']",
+        "peekOfCode": "class AlimentoViewSet(ModelViewSet):\n    queryset = Alimento.objects.all()\n    serializer_class = AlimentoSerializer\n    filter_backends = [DjangoFilterBackend, OrderingFilter]\n    filterset_class = AlimentoFilter\n    ordering_fields = '__all__'\n    filterset_fields = ['nombre']\nclass AlimentoMomentoDiaViewSet(ModelViewSet):\n    permission_classes = [IsAuthenticated]\n    serializer_class = AlimentoMomentoDiaSerializer",
         "detail": "alimento.api.views",
         "documentation": {}
     },
